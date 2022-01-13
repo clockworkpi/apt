@@ -1,0 +1,177 @@
+Package: devterm-audio-patch
+Version: 0.03
+Installed-Size: 52
+Maintainer: cuu <gnubsd@me.com>
+Architecture: all
+Depends: python2
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-audio-patch/devterm-audio-patch_0.03_all.deb
+Size: 13928
+SHA256: 7f127f48ad5f634dc7ac42c3d6ab329475144ebed5d0221d88851785dcddcd7e
+SHA1: 3e8cc8133e6f32a137058e93834620d8713b0ef3
+MD5sum: f82532044b73ea01a73a4fde0b73d937
+Description: devterm-audio-patch
+ devterm audio patch
+
+Package: devterm-backlight-rpi
+Version: 0.12
+Installed-Size: 64
+Maintainer: cuu <gnubsd@me.com>
+Architecture: armhf
+Depends: xbindkeys
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-backlight-rpi/devterm-backlight-rpi_0.12_armhf.deb
+Size: 18088
+SHA256: 10591e991d3c54a6ae7730ae4082400505a4c0d6b25194214e67bdf6450394bd
+SHA1: 0101bd30cef9dfeab5fa3f7ce7d21db7359eed03
+MD5sum: c4a4f4a131637cd47bc89c14573e4011
+Description: control devterm cm3 backlight by fn + <>
+ control devterm cm3 backlight by fn + <>
+
+Package: devterm-cool-retro-term-rpi
+Version: 0.2
+Architecture: armhf
+Depends: libatomic1,libc6,libdouble-conversion1,libfreetype6,libgcc1,libgles2,libglib2.0-0,libglib2.0-dev,libglvnd0,libgraphite2-3,libharfbuzz0b,libicu63,libpcre2-16-0,libpcre3,libpng16-16,libqt5core5a,libqt5gui5,libqt5network5,libqt5qml5,libqt5quick5,libqt5sql5,libqt5widgets5,libstdc++6,raspi-copies-and-fills,zlib1g,qml-module-qtquick-controls,qml-module-qtquick-controls2,qml-module-qtquick-window2,qml-module-qtgraphicaleffects,qml-module-qtquick2
+Maintainer: cuu <gnubsd@me.com>
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-cool-retro-term-rpi/devterm-cool-retro-term-rpi_0.2_armhf.deb
+Size: 1461622
+SHA256: bb6020be18dc014458af2632da8a62d6587f34af18bf1d363ade2489c4be148e
+SHA1: 8e6b5ababed0d844b99feadaad24ddf97b543070
+MD5sum: f426c012d51243cd740a8202d8bad545
+Description: cool retro term for DevTerm CM3.
+ cool retro term for DevTerm CM3,use it with --fullscreen arg
+
+Package: devterm-fan-temp-daemon-rpi
+Version: 0.12
+Installed-Size: 52
+Maintainer: cuu <gnubsd@me.com>
+Architecture: all
+Depends: python2
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-fan-temp-daemon-rpi/devterm-fan-temp-daemon-rpi_0.12_all.deb
+Size: 14060
+SHA256: 75f6e34a138d9eabf56c40c8391e9a88594d94a831650f21f34eaaca1d33bb4d
+SHA1: 3625189bb19d1027f01155650560a5560ef87b0c
+MD5sum: dc1af3d96bbae2a2e57eedb03484e4f0
+Description: devterm fan control script for raspberry pi
+
+Package: devterm-i3tools-rpi
+Version: 0.1
+Installed-Size: 152
+Maintainer: cuu <gnubsd@me.com>
+Architecture: armhf
+Depends: libnotify-bin
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-i3tools-rpi/devterm-i3tools-rpi_0.1_armhf.deb
+Size: 46184
+SHA256: 160cb07d68925817647bd88c6e5e7921e0e58dc7f7407dfd7b93aa65c6f996a5
+SHA1: 0f6f0749163e3c25d1e887057b58f789fbdaeacc
+MD5sum: 0732b5a5fb8fb972875861a43978ec8e
+Description: devterm-i3tools-rpi  for cm3
+ devterm-i3tools-rpi for cm3
+
+Package: devterm-kernel-rpi
+Version: 0.06
+Installed-Size: 66468
+Maintainer: cuu <gnubsd@me.com>
+Architecture: armhf
+Conflicts: raspberrypi-kernel
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-kernel-rpi/devterm-kernel-rpi_0.06_armhf.deb
+Size: 18278832
+SHA256: c9e785404af5e2144db8fa45c4ce3de9cae20379db80ae3594d717966d194e15
+SHA1: afe945d68c3486db7eed27f9ac3b147935a753d7
+MD5sum: 62163da8483de367513b773a081ac2de
+Description: devterm-kernel-rpi
+ devterm kernel for rpi cm3
+
+Package: devterm-keyboard-firmware
+Version: 0.30
+Installed-Size: 148
+Maintainer: cuu <gnubsd@me.com>
+Architecture: all
+Depends: dfu-util
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-keyboard-firmware/devterm-keyboard-firmware_0.30_all.deb
+Size: 106440
+SHA256: dc56a09ef197b1f24456087c59ca0370b55cb9ffddd8332a966ad656128dbc2c
+SHA1: af52caabac65378f9f55fdf6626630aefb7b2aae
+MD5sum: 014c276a4f51cb09116b7cbf1285cdf1
+Description: devterm-keyboard-firmware
+ devterm keyboard firmware
+ .
+ this deb only downloads the firmware into /usr/local/bin
+ .
+ if you need to flash, do it manually
+
+Package: devterm-nxengine-rpi
+Version: 0.12
+Architecture: armhf
+Depends: libasound2,libasyncns0,libbsd0,libc6,libcap2,libdbus-1-3,libffi6,libflac8,libfluidsynth1,libgcc1,libgcrypt20,libglib2.0-0,libglib2.0-dev,libgpg-error0,libice6,libjbig0,libjpeg62,libjpeg62-turbo,liblz4-1,liblzma5,libmodplug1,libmpg123-0,libogg0,libopus0,libopusfile0,libpcre3,libpng16-16,libpulse0,libraspberrypi0,libreadline7,libsdl2-2.0-0,libsdl2-image-2.0-0,libsdl2-mixer-2.0-0,libsm6,libsndfile1,libsndio7.0,libstdc++6,libsystemd0,libtiff5,libtinfo6,libuuid1,libvorbis0a,libvorbisenc2,libvorbisfile3,libwayland-client0,libwayland-cursor0,libwayland-egl1,libwebp6,libwrap0,libx11-6,libx11-xcb1,libxau6,libxcb1,libxcursor1,libxdmcp6,libxext6,libxfixes3,libxi6,libxinerama1,libxkbcommon0,libxrandr2,libxrender1,libxss1,libxtst6,libxxf86vm1,libzstd1,raspi-copies-and-fills,zlib1g
+Maintainer: cuu <gnubsd@me.com>
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-nxengine-rpi/devterm-nxengine-rpi_0.12_armhf.deb
+Size: 1007654
+SHA256: 3cfcc6f4f6cf588f7ae37dd02d43f83800ebe64f1f9801e425c9be0cf1fe7c88
+SHA1: ea4eb1997254239fa1ea5dadacbd11b35d1b445a
+MD5sum: ac38619dcc784ddb40d872dcf9b626ae
+Description: CaveStory for DevTerm CM3.
+ CaveStory Game for DevTerm CM3
+
+Package: devterm-thermal-printer
+Version: 0.29
+Installed-Size: 132
+Maintainer: cuu <gnubsd@me.com>
+Homepage: https://github.com/clockworkpi/thermal_printer
+Architecture: armhf
+Depends: socat
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-thermal-printer/devterm-thermal-printer_0.29_armhf.deb
+Size: 35828
+SHA256: 43d9b75dd5c73745806e793007e25d5a3cce284e75b57856b6aaaf9373c6aed3
+SHA1: b133e99a4b9d05796a0662e24183fb0580a6510c
+MD5sum: 7a5dce4398f745efd25724ee29fe662c
+Description: Thermal printer daemon for DevTerm
+
+Package: devterm-thermal-printer-cups
+Version: 0.1
+Installed-Size: 76
+Maintainer: cuu <gnubsd@me.com>
+Architecture: armhf
+Depends: cups, cups-client, devterm-thermal-printer
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-thermal-printer-cups/devterm-thermal-printer-cups_0.1_armhf.deb
+Size: 19728
+SHA256: fa01e73edf318fe7325dd75e529845e47c1a5b83d0fae45bebfe89e742776fa3
+SHA1: 574dcbfee24044187d5836e0751540ec114a41d8
+MD5sum: 08c4aee7d8382c6e843b10adf4631d4c
+Description: devterm thermal printer cups filter and config
+ devterm thermal printer cups filter
+ add a devterm_printer in CUPS
+
+Package: gameshell-kernel-cpi
+Version: 0.6
+Installed-Size: 9832
+Maintainer: cuu <gnubsd@me.com>
+Architecture: armhf
+Priority: optional
+Section: utils
+Filename: pool/main/g/gameshell-kernel-cpi/gameshell-kernel-cpi_0.6_armhf.deb
+Size: 9391234
+SHA256: a344e3081a298cbd97cffb304962d94a7601ff5872ed4e6e387e9017d9097b8f
+SHA1: ce93b9d4dd8fa5bfa41a670db699d768343cdfeb
+MD5sum: 919f78f425257b2be4d825a0d36d1865
+Description: kernel for gameshell
+ kernel for gameshell
+

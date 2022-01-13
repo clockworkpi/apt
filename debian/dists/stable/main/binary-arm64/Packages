@@ -1,0 +1,310 @@
+Package: devterm-audio-patch
+Version: 0.03
+Installed-Size: 52
+Maintainer: cuu <gnubsd@me.com>
+Architecture: all
+Depends: python2
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-audio-patch/devterm-audio-patch_0.03_all.deb
+Size: 13928
+SHA256: 7f127f48ad5f634dc7ac42c3d6ab329475144ebed5d0221d88851785dcddcd7e
+SHA1: 3e8cc8133e6f32a137058e93834620d8713b0ef3
+MD5sum: f82532044b73ea01a73a4fde0b73d937
+Description: devterm-audio-patch
+ devterm audio patch
+
+Package: devterm-cavestory-cpi
+Version: 0.1
+Installed-Size: 10876
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Depends: libsdl2-2.0-0, libsdl2-gfx-1.0-0, libsdl2-image-2.0-0, libsdl2-mixer-2.0-0, libsdl2-net-2.0-0, libsdl2-ttf-2.0-0
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-cavestory-cpi/devterm-cavestory-cpi_0.1_arm64.deb
+Size: 1153452
+SHA256: 847528e2333a5f2b568640d2ea0da79cc4c6a780a1695ab03c7457f81888c921
+SHA1: c4ff1e0b1320222d8796a5b6b84d7aaa1056313a
+MD5sum: 8902065a38645e82650b7496e59c571b
+Description: devterm-cavestory-cpi for a06 a04
+ devterm-cavestory-cpi for a06 a04
+
+Package: devterm-fan-daemon-cpi-a04
+Version: 0.15
+Installed-Size: 56
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Depends: python3
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-fan-daemon-cpi-a04/devterm-fan-daemon-cpi-a04_0.15_arm64.deb
+Size: 15244
+SHA256: 690ba32691d5bb072dd7743b77643006359ee1df73a3025c93dd2315cb6baca3
+SHA1: 452005e184bcb89d0ce22ae7af8ef9b1fd084764
+MD5sum: 881a7f88cdeac8d3341a28b6a86bfdb9
+Description: devterm fan control for a04
+ devterm fan control for a04
+
+Package: devterm-fan-daemon-cpi-a06
+Version: 0.15
+Installed-Size: 32
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Depends: python3
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-fan-daemon-cpi-a06/devterm-fan-daemon-cpi-a06_0.15_arm64.deb
+Size: 7890
+SHA256: 3c14a4acc82905dbbf8a15c88528c8322d5d5e197bbcda1eb246bd408521fb79
+SHA1: fbf2d10980600c89284fe8b930adabbc8e976aab
+MD5sum: 1329759a08173d804d7ef27ff8abc0aa
+Description: devterm fan control for a06
+ devterm fan control for a06
+
+Package: devterm-fan-temp-daemon-rpi
+Version: 0.12
+Installed-Size: 52
+Maintainer: cuu <gnubsd@me.com>
+Architecture: all
+Depends: python2
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-fan-temp-daemon-rpi/devterm-fan-temp-daemon-rpi_0.12_all.deb
+Size: 14060
+SHA256: 75f6e34a138d9eabf56c40c8391e9a88594d94a831650f21f34eaaca1d33bb4d
+SHA1: 3625189bb19d1027f01155650560a5560ef87b0c
+MD5sum: dc1af3d96bbae2a2e57eedb03484e4f0
+Description: devterm fan control script for raspberry pi
+
+Package: devterm-first-start-a04
+Version: 0.1
+Installed-Size: 48
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Depends: zenity
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-first-start-a04/devterm-first-start-a04_0.1_arm64.deb
+Size: 14104
+SHA256: dff41dfe77168adb3eb938e5b346a19475a90bab314ff26bd4bef7eb11abd89a
+SHA1: 4c22731d5d0abe10109c692d4e6dc1a4cc1ecab3
+MD5sum: ffdff9f1dba2437ac7ed94747c146bc3
+Description: first start tip window based by zenity
+ first start tip window based by zenity
+
+Package: devterm-first-start-a06
+Version: 0.2
+Installed-Size: 48
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Depends: zenity
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-first-start-a06/devterm-first-start-a06_0.2_arm64.deb
+Size: 14092
+SHA256: f750d3437b49d5b2a9b82aefdffc86ae2dbc1a39571d7c91d3cd8b212cd16714
+SHA1: 686df0264ecde6c8d581bdcc69186d795c99985f
+MD5sum: f3717a047fddefa6f3332302315b821d
+Description: first start tip window based by zenity
+ first start tip window based by zenity
+
+Package: devterm-gearbox-a04
+Version: 0.13
+Installed-Size: 60
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Depends: python3
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-gearbox-a04/devterm-gearbox-a04_0.13_arm64.deb
+Size: 16240
+SHA256: e63973b675a9a5e80e3aef7373fbd13202d0c5853e78ed544e00132c5ea75768
+SHA1: 2b255f0bcd031742394e37c21d63450582513404
+MD5sum: 9328bcc8858b5cb37e06d5d25f764ed0
+Description: devterm-gearbox-a04
+ devterm-gearbox-a04
+
+Package: devterm-gearbox-a06
+Version: 0.1
+Installed-Size: 56
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Depends: python3
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-gearbox-a06/devterm-gearbox-a06_0.1_arm64.deb
+Size: 16388
+SHA256: c52169998eeb9f7524cec60ee76c897f406889022ba074efece33c70e93e4dc2
+SHA1: ec2043632d9fa533016eb9c34d1100b374fcbcdd
+MD5sum: 34d22cf6d9d51f57fa1f6d8211ca8d2f
+Description: devterm-gearbox-a06
+ devterm-gearbox-a06
+
+Package: devterm-i3tools-a06
+Version: 0.1
+Installed-Size: 176
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Depends: libnotify-bin
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-i3tools-a06/devterm-i3tools-a06_0.1_arm64.deb
+Size: 50716
+SHA256: ab68f4b3910eefa431c18c9adb1941601590d8bcad0babf8bc21993af201844f
+SHA1: 9595a358f5a489e2f68aea528edf5efe3addee15
+MD5sum: 8b649f8eb1c6c59fd6d2b98fbec6bfa6
+Description: devterm-i3tools-a06
+ devterm-i3tools-a06
+
+Package: devterm-kernel-current-cpi-a04
+Version: 0.6
+Installed-Size: 168276
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Depends: devterm-audio-patch
+Conflicts: linux-dtb-current-sunxi64, linux-image-current-sunxi64
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-kernel-current-cpi-a04/devterm-kernel-current-cpi-a04_0.6_arm64.deb
+Size: 33567208
+SHA256: 15ca149180fb8f379a0217666856fc26cc05e5ed7a9e53dae7f3e462703ed315
+SHA1: a98bd8372b8c345c76f04c7f4bf2dfd06b603910
+MD5sum: 01d02581fc639cb1c63e817c003bb102
+Description: devterm-kernel-current-cpi-a04
+ devterm-kernel-current-cpi-a04
+
+Package: devterm-kernel-current-cpi-a06
+Version: 0.2
+Installed-Size: 223504
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Conflicts: linux-dtb-current-rockchip64, linux-image-current-rockchip64
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-kernel-current-cpi-a06/devterm-kernel-current-cpi-a06_0.2_arm64.deb
+Size: 41470790
+SHA256: d1b0db2d90b766c93aa3ea18c102a8d158f3514c6044ef53535f98e3f03ddee6
+SHA1: a76717a020c9f4b2b9ddc13dcebb96118332e0e8
+MD5sum: b21823b80bb434908a2444bbda146f64
+Description: kernel image for devterm a06
+ kernel image for devterm a06
+
+Package: devterm-keyboard-firmware
+Version: 0.30
+Installed-Size: 148
+Maintainer: cuu <gnubsd@me.com>
+Architecture: all
+Depends: dfu-util
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-keyboard-firmware/devterm-keyboard-firmware_0.30_all.deb
+Size: 106440
+SHA256: dc56a09ef197b1f24456087c59ca0370b55cb9ffddd8332a966ad656128dbc2c
+SHA1: af52caabac65378f9f55fdf6626630aefb7b2aae
+MD5sum: 014c276a4f51cb09116b7cbf1285cdf1
+Description: devterm-keyboard-firmware
+ devterm keyboard firmware
+ .
+ this deb only downloads the firmware into /usr/local/bin
+ .
+ if you need to flash, do it manually
+
+Package: devterm-spotify-tui-cpi
+Version: 0.1
+Installed-Size: 18304
+Maintainer: cuu <gnubsd@me.com>
+Homepage: https://github.com/Rigellute/spotify-tui
+Architecture: arm64
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-spotify-tui-cpi/devterm-spotify-tui-cpi_0.1_arm64.deb
+Size: 3510434
+SHA256: 67da8fb4844cdb310164b6be4e075965b1e3b7a4a3f41e66cb309b1abb48d2db
+SHA1: b5bfd1bf9067776d8a7d0f0cd20e864a096ddd2e
+MD5sum: 09244169702c02d9ed01278999c0a319
+Description: devterm-spotify-tui-cpi for a06 a04
+ devterm-spotify-tui-cpi for a06 a04
+ https://github.com/Rigellute/spotify-tui
+
+Package: devterm-thermal-printer
+Version: 0.3
+Installed-Size: 136
+Maintainer: cuu <gnubsd@me.com>
+Homepage: https://github.com/clockworkpi/thermal_printer
+Architecture: arm64
+Depends: socat
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-thermal-printer/devterm-thermal-printer_0.3_arm64.deb
+Size: 35788
+SHA256: df873135e8555a22f012ebdce2da000615a6db39157f77fc8082583668a420cc
+SHA1: 29094a865454741be8c756f69be07feaacb20dcd
+MD5sum: cad54a582a99339dc3fe683f770b4fb2
+Description: Thermal printer daemon for DevTerm
+
+Package: devterm-thermal-printer-cups
+Version: 0.1
+Installed-Size: 80
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Depends: cups, cups-client, devterm-thermal-printer
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-thermal-printer-cups/devterm-thermal-printer-cups_0.1_arm64.deb
+Size: 21068
+SHA256: 95ecfff71370a00d913236587e94e1eadc191b81a5c9df21270f8aabc96ec842
+SHA1: 1901da0eb9142b6746dac7e21fa295da70fc08fb
+MD5sum: bb4fc8bad414cbf3c8b6f8c64285478c
+Description: devterm thermal printer cups filter and config
+ devterm thermal printer cups filter
+ add a devterm_printer in CUPS
+
+Package: devterm-tic80-cpi
+Version: 0.1
+Installed-Size: 4688
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Depends: libglu1-mesa, freeglut3, libglvnd0, libasound2
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-tic80-cpi/devterm-tic80-cpi_0.1_arm64.deb
+Size: 1185582
+SHA256: 240b7b46769de8ca83cbf958b60c945a66e5eb2663190c304015c160bf99d973
+SHA1: 513720f966b259b74358042e9205177ac01074da
+MD5sum: 3d4bd720b5906c18276e47f984f0908e
+Description: devterm-tic80-cpi for arm64
+ devterm-tic80-cpi for arm64
+
+Package: devterm-wiringpi-cpi
+Version: 0.1
+Installed-Size: 204
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Conflicts: wiringpi
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-wiringpi-cpi/devterm-wiringpi-cpi_0.1_arm64.deb
+Size: 53280
+SHA256: 4b0020b43ef3aa04570c51e87fc01982d76bdcbf38484ac9ceccb8a408629572
+SHA1: f1af84217a50934a1c7bac7fc5d6ed44cb7da589
+MD5sum: ce4529b9d2611b6b6716fe2e9e3cf540
+Description: wiringpi for cpi a06
+ wiringpi for cpi a06
+
+Package: devterm-wiringpi-cpi-a04
+Version: 0.11
+Installed-Size: 232
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Conflicts: wiringpi
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-wiringpi-cpi-a04/devterm-wiringpi-cpi-a04_0.11_arm64.deb
+Size: 60512
+SHA256: 86ac87732fabe9f948c1715ef580ba44802943cc64ee748aa0c8ec9dced1ff49
+SHA1: ce434bc6a0c4d434a9800201fdbb8d85b76ba438
+MD5sum: 0e760cefcdbb799fd6f71786f1f85032
+Description: devterm-wiringpi-cpi-a04
+ devterm-wiringpi-cpi-a04  for a04
+
