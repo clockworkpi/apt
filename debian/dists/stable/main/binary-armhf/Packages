@@ -7,10 +7,10 @@ Depends: python2
 Priority: optional
 Section: utils
 Filename: pool/main/d/devterm-audio-patch/devterm-audio-patch_0.03_all.deb
-Size: 13928
-SHA256: 7f127f48ad5f634dc7ac42c3d6ab329475144ebed5d0221d88851785dcddcd7e
-SHA1: 3e8cc8133e6f32a137058e93834620d8713b0ef3
-MD5sum: f82532044b73ea01a73a4fde0b73d937
+Size: 16834
+SHA256: 0f6e4291053ba6bcfc3fdd595301c689a937e0c3b591ec46a54e6ad17b5bcd07
+SHA1: 18846bc48ccaef19ff03ccb8f62414d580b22de1
+MD5sum: 93ccdbbecfdab6a31448a1a72b8bd5fe
 Description: devterm-audio-patch
  devterm audio patch
 
@@ -23,10 +23,10 @@ Depends: xbindkeys
 Priority: optional
 Section: utils
 Filename: pool/main/d/devterm-backlight-rpi/devterm-backlight-rpi_0.12_armhf.deb
-Size: 18088
-SHA256: 10591e991d3c54a6ae7730ae4082400505a4c0d6b25194214e67bdf6450394bd
-SHA1: 0101bd30cef9dfeab5fa3f7ce7d21db7359eed03
-MD5sum: c4a4f4a131637cd47bc89c14573e4011
+Size: 19650
+SHA256: 97f0b43977323e532acce1f0cfb033004e7b4db393d10a6638cb9c27fde8c31f
+SHA1: ccae15b2d53ce18f7553275aee65319a71087647
+MD5sum: a6bd49a8cf6920ba739c5594411f43da
 Description: control devterm cm3 backlight by fn + <>
  control devterm cm3 backlight by fn + <>
 
@@ -38,10 +38,10 @@ Maintainer: cuu <gnubsd@me.com>
 Priority: optional
 Section: utils
 Filename: pool/main/d/devterm-cool-retro-term-rpi/devterm-cool-retro-term-rpi_0.2_armhf.deb
-Size: 1461622
-SHA256: bb6020be18dc014458af2632da8a62d6587f34af18bf1d363ade2489c4be148e
-SHA1: 8e6b5ababed0d844b99feadaad24ddf97b543070
-MD5sum: f426c012d51243cd740a8202d8bad545
+Size: 1461792
+SHA256: 19f3b603cbadfbbcc921f95cd221689fe1b4c584d16398aaff0aac099e1c366b
+SHA1: 83eb0ca6e96735a1df9b0295dd884767a67733c4
+MD5sum: 81b296285f75ecb343a5ea2ceef45e2e
 Description: cool retro term for DevTerm CM3.
  cool retro term for DevTerm CM3,use it with --fullscreen arg
 
@@ -54,10 +54,10 @@ Depends: python2
 Priority: optional
 Section: utils
 Filename: pool/main/d/devterm-fan-temp-daemon-rpi/devterm-fan-temp-daemon-rpi_0.12_all.deb
-Size: 14060
-SHA256: 75f6e34a138d9eabf56c40c8391e9a88594d94a831650f21f34eaaca1d33bb4d
-SHA1: 3625189bb19d1027f01155650560a5560ef87b0c
-MD5sum: dc1af3d96bbae2a2e57eedb03484e4f0
+Size: 15468
+SHA256: 533bf670d899d59022b83f0132482b00b64118fc5546878aa3c4cf19447a528a
+SHA1: c9d06cd7b8675a97ed15928805e250f3fe2a0b82
+MD5sum: 8f7d49a2b4446f78c6f3f99785e36cd0
 Description: devterm fan control script for raspberry pi
 
 Package: devterm-i3tools-rpi
@@ -69,10 +69,10 @@ Depends: libnotify-bin
 Priority: optional
 Section: utils
 Filename: pool/main/d/devterm-i3tools-rpi/devterm-i3tools-rpi_0.1_armhf.deb
-Size: 46184
-SHA256: 160cb07d68925817647bd88c6e5e7921e0e58dc7f7407dfd7b93aa65c6f996a5
-SHA1: 0f6f0749163e3c25d1e887057b58f789fbdaeacc
-MD5sum: 0732b5a5fb8fb972875861a43978ec8e
+Size: 47592
+SHA256: 0ec5a8e3e7f9cfd3ebb639a2f1fe1093fd1b3ed269770cb5a40d28bafd0d1fd2
+SHA1: aebd81ecfb6039ce3fa8ae5b9e28adfdf67b40bb
+MD5sum: 919d1d0b872e01eee561053867db4f4b
 Description: devterm-i3tools-rpi  for cm3
  devterm-i3tools-rpi for cm3
 
@@ -85,10 +85,10 @@ Conflicts: raspberrypi-kernel
 Priority: optional
 Section: utils
 Filename: pool/main/d/devterm-kernel-rpi/devterm-kernel-rpi_0.06_armhf.deb
-Size: 18278832
-SHA256: c9e785404af5e2144db8fa45c4ce3de9cae20379db80ae3594d717966d194e15
-SHA1: afe945d68c3486db7eed27f9ac3b147935a753d7
-MD5sum: 62163da8483de367513b773a081ac2de
+Size: 18279888
+SHA256: 06c394b88fbbd92d7e64c2370484b166d9d7d581d854b2b2808c5169f8c7f33e
+SHA1: 8562c2555e2ad6f30c30e51800e60d3af40b374e
+MD5sum: c8a38b2488e2ee88fbc896aeea31af22
 Description: devterm-kernel-rpi
  devterm kernel for rpi cm3
 
@@ -101,10 +101,10 @@ Depends: dfu-util
 Priority: optional
 Section: utils
 Filename: pool/main/d/devterm-keyboard-firmware/devterm-keyboard-firmware_0.30_all.deb
-Size: 106440
-SHA256: dc56a09ef197b1f24456087c59ca0370b55cb9ffddd8332a966ad656128dbc2c
-SHA1: af52caabac65378f9f55fdf6626630aefb7b2aae
-MD5sum: 014c276a4f51cb09116b7cbf1285cdf1
+Size: 107848
+SHA256: d3b585b0a1623dec76c78682f1051f96f62a99ef76e595af1627e95499342475
+SHA1: 915d0e31f88f97e83a458d99a884f2a5edacd612
+MD5sum: e819ab02e1dea0a2416199dd79c3000c
 Description: devterm-keyboard-firmware
  devterm keyboard firmware
  .
@@ -120,10 +120,10 @@ Maintainer: cuu <gnubsd@me.com>
 Priority: optional
 Section: utils
 Filename: pool/main/d/devterm-nxengine-rpi/devterm-nxengine-rpi_0.12_armhf.deb
-Size: 1007654
-SHA256: 3cfcc6f4f6cf588f7ae37dd02d43f83800ebe64f1f9801e425c9be0cf1fe7c88
-SHA1: ea4eb1997254239fa1ea5dadacbd11b35d1b445a
-MD5sum: ac38619dcc784ddb40d872dcf9b626ae
+Size: 1009064
+SHA256: 50fda07b54b8f7bcac8bc7ceeb78f5aba0d5fe1ae1111c8c57df27a86e2e3217
+SHA1: a0141683ad178018009f944c13ed5ac369547682
+MD5sum: ba91b85b7f8fe03de1353396b8271c2b
 Description: CaveStory for DevTerm CM3.
  CaveStory Game for DevTerm CM3
 
@@ -137,10 +137,10 @@ Depends: socat
 Priority: optional
 Section: utils
 Filename: pool/main/d/devterm-thermal-printer/devterm-thermal-printer_0.29_armhf.deb
-Size: 35828
-SHA256: 43d9b75dd5c73745806e793007e25d5a3cce284e75b57856b6aaaf9373c6aed3
-SHA1: b133e99a4b9d05796a0662e24183fb0580a6510c
-MD5sum: 7a5dce4398f745efd25724ee29fe662c
+Size: 37236
+SHA256: d6530a92df9f18bd5c7f1eae0b8a3f8b2bba39c5963538fb13d426f0940e49dc
+SHA1: a3e95bc0a88b5c9583a3ed3baac209ce2e082f26
+MD5sum: 5e0675287f258398a81a758c7f89fbb4
 Description: Thermal printer daemon for DevTerm
 
 Package: devterm-thermal-printer-cups
@@ -152,10 +152,10 @@ Depends: cups, cups-client, devterm-thermal-printer
 Priority: optional
 Section: utils
 Filename: pool/main/d/devterm-thermal-printer-cups/devterm-thermal-printer-cups_0.1_armhf.deb
-Size: 19728
-SHA256: fa01e73edf318fe7325dd75e529845e47c1a5b83d0fae45bebfe89e742776fa3
-SHA1: 574dcbfee24044187d5836e0751540ec114a41d8
-MD5sum: 08c4aee7d8382c6e843b10adf4631d4c
+Size: 21136
+SHA256: c915f843fe90a3917bd6754f5188e0e04ae2da69c3419091bed69733b4529445
+SHA1: 87b683af8424323874a69a5098592c44d179d531
+MD5sum: 3cca1e1a1c0f905c7bf1ed56908053ee
 Description: devterm thermal printer cups filter and config
  devterm thermal printer cups filter
  add a devterm_printer in CUPS
@@ -168,10 +168,10 @@ Architecture: armhf
 Priority: optional
 Section: utils
 Filename: pool/main/g/gameshell-kernel-cpi/gameshell-kernel-cpi_0.6_armhf.deb
-Size: 9391234
-SHA256: a344e3081a298cbd97cffb304962d94a7601ff5872ed4e6e387e9017d9097b8f
-SHA1: ce93b9d4dd8fa5bfa41a670db699d768343cdfeb
-MD5sum: 919f78f425257b2be4d825a0d36d1865
+Size: 9392644
+SHA256: 581650a83b34f4f21a165f77e1da00fad3e6b21b165c23ac3924440c819d41ec
+SHA1: 202950cced315e619edc2186ec03d7a22be61a72
+MD5sum: 71c4847444b546d6204a5ad07962a25a
 Description: kernel for gameshell
  kernel for gameshell
 
