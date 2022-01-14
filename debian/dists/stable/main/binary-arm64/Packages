@@ -183,10 +183,10 @@ Conflicts: linux-dtb-current-rockchip64, linux-image-current-rockchip64
 Priority: optional
 Section: utils
 Filename: pool/main/d/devterm-kernel-current-cpi-a06/devterm-kernel-current-cpi-a06_0.2_arm64.deb
-Size: 41470790
-SHA256: d1b0db2d90b766c93aa3ea18c102a8d158f3514c6044ef53535f98e3f03ddee6
-SHA1: a76717a020c9f4b2b9ddc13dcebb96118332e0e8
-MD5sum: b21823b80bb434908a2444bbda146f64
+Size: 41469124
+SHA256: eb584b8eaa2122d1a9402d563c7de06da94be284d3e014b92249b262f4b77cd7
+SHA1: d287533999b7013be718da193ab1d3a26ec2d002
+MD5sum: d5e4731ce827ca480f58bf6673626a59
 Description: kernel image for devterm a06
  kernel image for devterm a06
 
