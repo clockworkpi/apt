@@ -2,5 +2,5 @@ Origin: clockworkpi.github.io/apt
 Label: clockworkpi.github.io/apt/
 Codename: stable
 Architectures: armhf arm64
-Components: main
+Components: main old
 Description: cpi repository

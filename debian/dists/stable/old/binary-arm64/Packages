@@ -1,0 +1,16 @@
+Package: devterm-kernel-current-cpi-a06
+Version: 0.2
+Installed-Size: 223504
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Conflicts: linux-dtb-current-rockchip64, linux-image-current-rockchip64
+Priority: optional
+Section: utils
+Filename: pool/old/d/devterm-kernel-current-cpi-a06/devterm-kernel-current-cpi-a06_0.2_arm64.deb
+Size: 41469124
+SHA256: eb584b8eaa2122d1a9402d563c7de06da94be284d3e014b92249b262f4b77cd7
+SHA1: d287533999b7013be718da193ab1d3a26ec2d002
+MD5sum: d5e4731ce827ca480f58bf6673626a59
+Description: kernel image for devterm a06
+ kernel image for devterm a06
+
