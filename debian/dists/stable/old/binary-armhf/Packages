@@ -1,0 +1,16 @@
+Package: devterm-thermal-printer
+Version: 0.29
+Installed-Size: 132
+Maintainer: cuu <gnubsd@me.com>
+Homepage: https://github.com/clockworkpi/thermal_printer
+Architecture: armhf
+Depends: socat
+Priority: optional
+Section: utils
+Filename: pool/old/d/devterm-thermal-printer/devterm-thermal-printer_0.29_armhf.deb
+Size: 37236
+SHA256: d6530a92df9f18bd5c7f1eae0b8a3f8b2bba39c5963538fb13d426f0940e49dc
+SHA1: a3e95bc0a88b5c9583a3ed3baac209ce2e082f26
+MD5sum: 5e0675287f258398a81a758c7f89fbb4
+Description: Thermal printer daemon for DevTerm
+
