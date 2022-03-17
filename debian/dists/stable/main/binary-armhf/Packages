@@ -128,7 +128,7 @@ Description: CaveStory for DevTerm CM3.
  CaveStory Game for DevTerm CM3
 
 Package: devterm-thermal-printer
-Version: 0.3
+Version: 0.31
 Installed-Size: 160
 Maintainer: cuu <gnubsd@me.com>
 Homepage: https://github.com/clockworkpi/thermal_printer
@@ -136,11 +136,11 @@ Architecture: armhf
 Depends: socat, fonts-noto-cjk
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-thermal-printer/devterm-thermal-printer_0.3_armhf.deb
-Size: 45042
-SHA256: 0127ad8b445c1305873887da133d884c273e8f342a622bc8cf00ef6c65291c7b
-SHA1: 55769e0755f825177ccf1b556f9c342c5515004c
-MD5sum: 6eb020ee750b3c6a3c3160d21a0fb21d
+Filename: pool/main/d/devterm-thermal-printer/devterm-thermal-printer_0.31_armhf.deb
+Size: 45222
+SHA256: d1407a1c636f4ad4acb652feeefb1cf1ba49621a96faa77ae55e8639f656de5f
+SHA1: e21cccecbf3c8e067684e9ba09758faff562caaf
+MD5sum: ad103ae8e38813d84a22ab792609650c
 Description: Thermal printer daemon for DevTerm
 
 Package: devterm-thermal-printer-cups
