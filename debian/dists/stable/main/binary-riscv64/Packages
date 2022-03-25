@@ -1,0 +1,64 @@
+Package: devterm-audio-patch
+Version: 0.03
+Installed-Size: 52
+Maintainer: cuu <gnubsd@me.com>
+Architecture: all
+Depends: python2
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-audio-patch/devterm-audio-patch_0.03_all.deb
+Size: 16834
+SHA256: 0f6e4291053ba6bcfc3fdd595301c689a937e0c3b591ec46a54e6ad17b5bcd07
+SHA1: 18846bc48ccaef19ff03ccb8f62414d580b22de1
+MD5sum: 93ccdbbecfdab6a31448a1a72b8bd5fe
+Description: devterm-audio-patch
+ devterm audio patch
+
+Package: devterm-fan-temp-daemon-rpi
+Version: 0.12
+Installed-Size: 52
+Maintainer: cuu <gnubsd@me.com>
+Architecture: all
+Depends: python2
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-fan-temp-daemon-rpi/devterm-fan-temp-daemon-rpi_0.12_all.deb
+Size: 15468
+SHA256: 533bf670d899d59022b83f0132482b00b64118fc5546878aa3c4cf19447a528a
+SHA1: c9d06cd7b8675a97ed15928805e250f3fe2a0b82
+MD5sum: 8f7d49a2b4446f78c6f3f99785e36cd0
+Description: devterm fan control script for raspberry pi
+
+Package: devterm-keyboard-firmware
+Version: 0.30
+Installed-Size: 148
+Maintainer: cuu <gnubsd@me.com>
+Architecture: all
+Depends: dfu-util
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-keyboard-firmware/devterm-keyboard-firmware_0.30_all.deb
+Size: 107848
+SHA256: d3b585b0a1623dec76c78682f1051f96f62a99ef76e595af1627e95499342475
+SHA1: 915d0e31f88f97e83a458d99a884f2a5edacd612
+MD5sum: e819ab02e1dea0a2416199dd79c3000c
+Description: devterm-keyboard-firmware
+ devterm keyboard firmware
+ .
+ this deb only downloads the firmware into /usr/local/bin
+ .
+ if you need to flash, do it manually
+
+Package: devterm-wiringpi-cpi
+Version: 0.11
+Maintainer: cuu<gnubsd@me.com>
+Architecture: riscv64
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-wiringpi-cpi/devterm-wiringpi-cpi_0.11_riscv64.deb
+Size: 44334
+SHA256: 69e1a4ccd9a5700811a0857f3f80d52e5e6932fd0b76537184bf56a3d62ccdb0
+SHA1: 04009ef29b559383e19b4ee7a30df4538ceb8173
+MD5sum: d7245a5df3312188ba499ad6e58ed378
+Description: devterm-wiringpi-cpi riscv64 d1
+
