@@ -1,7 +1,7 @@
 Origin: clockworkpi.github.io/apt
 Label: clockworkpi.github.io/apt/
 Codename: stable
-Date: Tue, 29 Mar 2022 12:17:18 UTC
+Date: Tue, 29 Mar 2022 12:38:26 UTC
 Architectures: armhf arm64 riscv64
 Components: main old
 Description: cpi repository
@@ -12,8 +12,8 @@ MD5Sum:
  0b01193c2590ef38eee5ab38464a809a 10073 main/binary-arm64/Packages
  eb312017e68abbbc099b968cd48d514d 3064 main/binary-arm64/Packages.gz
  e1a701d89fa7c0df95243911d1580d6d 132 main/binary-arm64/Release
- b015c526bf8fda6a0bc5097f2041551d 2011 main/binary-riscv64/Packages
- 0f2397013197908eca0f368033b818a7 855 main/binary-riscv64/Packages.gz
+ b499e159cf1dfa3559fb8b00e2d31f0e 2543 main/binary-riscv64/Packages
+ 78a47a03ac21dc6b72c269ee47a161db 1062 main/binary-riscv64/Packages.gz
  28565096d270a9c66e0ce4b7d324c45d 134 main/binary-riscv64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 old/binary-armhf/Packages
  7029066c27ac6f5ef18d660d5741979a 20 old/binary-armhf/Packages.gz
@@ -31,8 +31,8 @@ SHA1:
  a4d2f36cbbc5a41110c41e73774e44e2e984e433 10073 main/binary-arm64/Packages
  eb4a60bcd086744258b1254b864cd75493aae72f 3064 main/binary-arm64/Packages.gz
  93043cb202ad6c014b45b1d6565687c45ff6914f 132 main/binary-arm64/Release
- 35fc868fece32bfcc6465dc41ca5aa0dc2ac507b 2011 main/binary-riscv64/Packages
- 9fa54080c0328fc30889c2e3c3fa6bedb283f41e 855 main/binary-riscv64/Packages.gz
+ 09a08640ba8f03273af8419a3befc1729107ea6a 2543 main/binary-riscv64/Packages
+ 3f786662445f1ac33583ab8cc0c8b705b27997e2 1062 main/binary-riscv64/Packages.gz
  23071a3d0396bcc992bd3fa2e52659ccda836c8c 134 main/binary-riscv64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 old/binary-armhf/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 old/binary-armhf/Packages.gz
@@ -50,8 +50,8 @@ SHA256:
  9cd185ff12b9bc830baf3bedb28f42138761e59a79fa933728a77a5af09e2c63 10073 main/binary-arm64/Packages
  7050c01414aff77878f926ae863eb3b6d2e17ab4975e63e2fb421ed10c0c9d86 3064 main/binary-arm64/Packages.gz
  ae10a9686b2ca7c38f4cca90d8d3ed3d1de57d0da063f41e8179ddec2f46ad66 132 main/binary-arm64/Release
- 8c1a620b65581bac70480fad16da12c6d54beb7c393b51c594c3e05af4530d57 2011 main/binary-riscv64/Packages
- 60342a4d70bd243176916bc1960556ec49abd7186a12f032e87da1df05db6db2 855 main/binary-riscv64/Packages.gz
+ c53ca011de4318625ad1c7d49b41f0702fde592c05ed0fee9f0782eefb65e2f8 2543 main/binary-riscv64/Packages
+ f98354684e2760a568ab18758a46cc6902ba2a628cc2b5886e6d653994ee4f7b 1062 main/binary-riscv64/Packages.gz
  fefecba1cf77701d98fde1ffce527048d836b4fd021f63ed4acfae18024040de 134 main/binary-riscv64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 old/binary-armhf/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 old/binary-armhf/Packages.gz
