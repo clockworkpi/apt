@@ -50,15 +50,15 @@ Description: devterm-keyboard-firmware
  if you need to flash, do it manually
 
 Package: devterm-wiringpi-cpi
-Version: 0.11
+Version: 0.12
 Maintainer: cuu<gnubsd@me.com>
 Architecture: riscv64
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-wiringpi-cpi/devterm-wiringpi-cpi_0.11_riscv64.deb
-Size: 44334
-SHA256: 69e1a4ccd9a5700811a0857f3f80d52e5e6932fd0b76537184bf56a3d62ccdb0
-SHA1: 04009ef29b559383e19b4ee7a30df4538ceb8173
-MD5sum: d7245a5df3312188ba499ad6e58ed378
+Filename: pool/main/d/devterm-wiringpi-cpi/devterm-wiringpi-cpi_0.12_riscv64.deb
+Size: 44386
+SHA256: 8ce014c8e0daff73497ff982ba2d21371cbd2292e5957b808d335d9fabce293f
+SHA1: ff1d72886972a10d039040594a52e26c3d9c26cf
+MD5sum: 4994e598c7b2604760748d356fde22b7
 Description: devterm-wiringpi-cpi riscv64 d1
 
