@@ -14,6 +14,21 @@ MD5sum: 93ccdbbecfdab6a31448a1a72b8bd5fe
 Description: devterm-audio-patch
  devterm audio patch
 
+Package: devterm-backlight-cpi
+Version: 0.12
+Installed-Size: 64
+Maintainer: cuu <gnubsd@me.com>
+Architecture: riscv64
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-backlight-cpi/devterm-backlight-cpi_0.12_riscv64.deb
+Size: 17982
+SHA256: 0f8889ac184706e240335df7b64b7a79b9b4a20f0f85ad448315bac14992da0c
+SHA1: 62591d9dd96ccaa129be2a07c3fe36b0bfe57c8e
+MD5sum: 8308007a5049c5d8a5ca3180d1c840b9
+Description: control devterm d1 backlight by fn + <>
+ control devterm d1 backlight by fn + <>
+
 Package: devterm-fan-temp-daemon-rpi
 Version: 0.12
 Installed-Size: 52
