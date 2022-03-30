@@ -50,18 +50,18 @@ Description: devterm-keyboard-firmware
  if you need to flash, do it manually
 
 Package: devterm-thermal-printer
-Version: 0.33
+Version: 0.34
 Maintainer: cuu <gnubsd@me.com>
 Homepage: https://github.com/clockworkpi/thermal_printer
 Architecture: riscv64
-Depends: socat, fonts-noto-cjk
+Depends: socat, fonts-noto-cjk, devterm-wiringpi-cpi
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-thermal-printer/devterm-thermal-printer_0.33_riscv64.deb
-Size: 45890
-SHA256: 50068f2d96d4abf749146c79e7cfa1d43de4467e6661f254736829382cf542fa
-SHA1: 7b9f325d53ff7b9995145c760a52645f9edcb7be
-MD5sum: c87a1390064ba543055b611ff2883ecf
+Filename: pool/main/d/devterm-thermal-printer/devterm-thermal-printer_0.34_riscv64.deb
+Size: 45906
+SHA256: 79935be5018d58f6022400257a8b21f1b2f81b6507a67b256e92d017436f8697
+SHA1: c12ec250c70c87d4d9cb37c89d198789b86909cc
+MD5sum: 4c2f2427bc48f2d710494f35636c496b
 Description: Thermal printer daemon for DevTerm
 
 Package: devterm-wiringpi-cpi
