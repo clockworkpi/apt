@@ -64,6 +64,23 @@ SHA1: c12ec250c70c87d4d9cb37c89d198789b86909cc
 MD5sum: 4c2f2427bc48f2d710494f35636c496b
 Description: Thermal printer daemon for DevTerm
 
+Package: devterm-thermal-printer-cups
+Version: 0.11
+Installed-Size: 80
+Maintainer: cuu <gnubsd@me.com>
+Architecture: riscv64
+Depends: cups, cups-client, devterm-thermal-printer
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-thermal-printer-cups/devterm-thermal-printer-cups_0.11_riscv64.deb
+Size: 19494
+SHA256: 9aa3b876b26a62a3e7eac214f2e38b417674706b3dfa324a5d7ba73119d6faea
+SHA1: 964cdb75601d8c1651de679ead5553b1c7b282dc
+MD5sum: 5ebabeaf9934a61a3d9b81c86a329326
+Description: devterm thermal printer cups filter and config
+ devterm thermal printer cups filter
+ add a devterm_printer in CUPS
+
 Package: devterm-wiringpi-cpi
 Version: 0.13
 Maintainer: cuu<gnubsd@me.com>
