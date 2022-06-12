@@ -1,13 +1,13 @@
 Origin: clockworkpi.github.io/apt
 Label: clockworkpi.github.io/apt/
 Codename: stable
-Date: Sun, 12 Jun 2022 13:31:46 UTC
+Date: Sun, 12 Jun 2022 13:36:54 UTC
 Architectures: armhf arm64 riscv64
 Components: main old
 Description: cpi repository
 MD5Sum:
- 4df4e00df9336c7f35a84d8cfe1815e5 7857 main/binary-armhf/Packages
- de07ff2f0797ac4d6c3890d285de6a27 2801 main/binary-armhf/Packages.gz
+ fce130dabb87f40483d3c305cbda6ec9 7879 main/binary-armhf/Packages
+ 233fb6c9c178eb7a22fd50ea325eda92 2814 main/binary-armhf/Packages.gz
  e78ab3d0894fe637dfc81febdfe9e2e0 133 main/binary-armhf/Release
  40933ce3410d8b401129416cdfd1525a 10073 main/binary-arm64/Packages
  30b075eaacdbc7c7b7bc67c658828443 3064 main/binary-arm64/Packages.gz
@@ -25,8 +25,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 old/binary-riscv64/Packages.gz
  5091d69901d25bdb7f151adb78d2b2cf 133 old/binary-riscv64/Release
 SHA1:
- c1a56c71f7899a779a2016482dc2b226f275ffcf 7857 main/binary-armhf/Packages
- 23a9bf97a50a64e05d228020c917b14708144dbc 2801 main/binary-armhf/Packages.gz
+ 6ba9fa51653f8fdc3fd32c8a8b1b2c97d6813083 7879 main/binary-armhf/Packages
+ b038a6bcc8593026ff061906dd1feb3ea3052427 2814 main/binary-armhf/Packages.gz
  6c6d59970adfeae5a666a944fafd1ff26bd7a19f 133 main/binary-armhf/Release
  e6a28dbf336f86abcfe89c3e51d61a36abd78b86 10073 main/binary-arm64/Packages
  0ec6961f8f10e98a2863a68753e2c69e4e56c090 3064 main/binary-arm64/Packages.gz
@@ -44,8 +44,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 old/binary-riscv64/Packages.gz
  239d5964967629661d05a314079540138749b03f 133 old/binary-riscv64/Release
 SHA256:
- 3bc695894d36e388957937be582e24efb12ab99890e9d072da381cdc5c8c1df6 7857 main/binary-armhf/Packages
- ed364ad2316ffeb9701f1776370989db0d3578b76f95a03b335824e292bbdf62 2801 main/binary-armhf/Packages.gz
+ 7193d457c4fc33b0bcf0f1cbf2a35503745903897cb03715b8698ca08f9321a8 7879 main/binary-armhf/Packages
+ c495531dfd29881210c77ed61e0404b249215b79d50a57129e8263567c655d9f 2814 main/binary-armhf/Packages.gz
  12ec441437b47dddeedbc631363c9d23cb4682784a918d7d78757bf8a038b949 133 main/binary-armhf/Release
  d9309725fe4d7066b1255207b75df5ca8d206785d9d88a8223349e143fb5cc95 10073 main/binary-arm64/Packages
  55322c1d6988fed3d4542f8e92915d46355d7edc662918ba9ad354128b0b295c 3064 main/binary-arm64/Packages.gz
