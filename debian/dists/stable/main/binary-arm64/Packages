@@ -277,18 +277,18 @@ Description: devterm-tic80-cpi for arm64
  devterm-tic80-cpi for arm64
 
 Package: devterm-wiringpi-cpi
-Version: 0.1
+Version: 0.11
 Installed-Size: 204
 Maintainer: cuu <gnubsd@me.com>
 Architecture: arm64
 Conflicts: wiringpi
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-wiringpi-cpi/devterm-wiringpi-cpi_0.1_arm64.deb
-Size: 54688
-SHA256: a253f2d8d1b1a98caea599ffd257d4fffae734900d3c56efe027e37d7428318b
-SHA1: a64e562b5346fa1b2bf5c37e9126ab7137e29912
-MD5sum: 143aac1c2a45837662e37196214b54de
+Filename: pool/main/d/devterm-wiringpi-cpi/devterm-wiringpi-cpi_0.11_arm64.deb
+Size: 53538
+SHA256: 9beb4c228d8afbf7e9e72bdbb73ca5ba477ef9d97de8ac370be0a19f340f0330
+SHA1: 03b3c45a368d5b70e9ffa9e955687bde6aa45f32
+MD5sum: 9d1c4893600230dd054b47ff68efbbeb
 Description: wiringpi for cpi a06
  wiringpi for cpi a06
 
