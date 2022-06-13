@@ -77,18 +77,18 @@ Description: devterm-i3tools-rpi  for cm3
  devterm-i3tools-rpi for cm3
 
 Package: devterm-kernel-cm4-rpi
-Version: 0.11
+Version: 0.12
 Installed-Size: 68480
 Maintainer: cuu <gnubsd@me.com>
 Architecture: armhf
 Conflicts: raspberrypi-kernel, devterm-kernel-rpi
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-kernel-cm4-rpi/devterm-kernel-cm4-rpi_0.11_armhf.deb
-Size: 19707844
-SHA256: d8a055d5297c4cbf699d22c868d7e4648b8350185e62becd1e317e7f2625c627
-SHA1: 98560f99b9df2a3ddc68268777683fdacea95aa1
-MD5sum: 67f2938d4c2a37461fdfebd611526c4a
+Filename: pool/main/d/devterm-kernel-cm4-rpi/devterm-kernel-cm4-rpi_0.12_armhf.deb
+Size: 19709612
+SHA256: 7970068ce2d54110bade261b34ef4bf9ab6e6473cec52426bdd9252f961160d6
+SHA1: d3c951203f9b6db630c5184a21068d829c7c0d18
+MD5sum: a75e89db19c0257753ffe5e79bf31fd3
 Description: devterm cm4 kernel
 
 Package: devterm-kernel-rpi
