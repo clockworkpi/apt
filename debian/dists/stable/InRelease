@@ -4,13 +4,13 @@ Hash: SHA256
 Origin: clockworkpi.github.io/apt
 Label: clockworkpi.github.io/apt/
 Codename: stable
-Date: Mon, 13 Jun 2022 03:39:05 UTC
+Date: Mon, 13 Jun 2022 04:07:51 UTC
 Architectures: armhf arm64 riscv64
 Components: main old
 Description: cpi repository
 MD5Sum:
- 2dfd3ac2aa22eee418d7a507ac65e795 7881 main/binary-armhf/Packages
- b1d283105b3519421ffa4d984a9023ed 2813 main/binary-armhf/Packages.gz
+ 006a68d847f0b1da02b303587abd21df 7881 main/binary-armhf/Packages
+ fc62f3b5fd792c199eb14f7551b8c848 2814 main/binary-armhf/Packages.gz
  e78ab3d0894fe637dfc81febdfe9e2e0 133 main/binary-armhf/Release
  40933ce3410d8b401129416cdfd1525a 10073 main/binary-arm64/Packages
  30b075eaacdbc7c7b7bc67c658828443 3064 main/binary-arm64/Packages.gz
@@ -28,8 +28,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 old/binary-riscv64/Packages.gz
  5091d69901d25bdb7f151adb78d2b2cf 133 old/binary-riscv64/Release
 SHA1:
- b3e9169cab2983193099f4c111c92715b0b0f1be 7881 main/binary-armhf/Packages
- ff8b4b8a09b6f2a73b2598742e1c55b3fff9b258 2813 main/binary-armhf/Packages.gz
+ 788accb26cb3968a12098c16d2409be715cc2787 7881 main/binary-armhf/Packages
+ 6ebc07dee438a1348fa40c564a14ef99f9367ba2 2814 main/binary-armhf/Packages.gz
  6c6d59970adfeae5a666a944fafd1ff26bd7a19f 133 main/binary-armhf/Release
  e6a28dbf336f86abcfe89c3e51d61a36abd78b86 10073 main/binary-arm64/Packages
  0ec6961f8f10e98a2863a68753e2c69e4e56c090 3064 main/binary-arm64/Packages.gz
@@ -47,8 +47,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 old/binary-riscv64/Packages.gz
  239d5964967629661d05a314079540138749b03f 133 old/binary-riscv64/Release
 SHA256:
- 1f9a7c2862f38bbd0443ad742a775b9bbaccd44dc3e6280cb909c07805cdb925 7881 main/binary-armhf/Packages
- fc9303da645287f27b3253fdf57849abe31b5c105b0142afc11c678a20c43c51 2813 main/binary-armhf/Packages.gz
+ 13cdfef33f11abe08a3f9bd88db18c686c0aac2c3e211f99119f9e87669d447e 7881 main/binary-armhf/Packages
+ efcc984c60ef2c8ecb1140ba8afc00ffad29b7df80529eedcc463e5bf3ad6d78 2814 main/binary-armhf/Packages.gz
  12ec441437b47dddeedbc631363c9d23cb4682784a918d7d78757bf8a038b949 133 main/binary-armhf/Release
  d9309725fe4d7066b1255207b75df5ca8d206785d9d88a8223349e143fb5cc95 10073 main/binary-arm64/Packages
  55322c1d6988fed3d4542f8e92915d46355d7edc662918ba9ad354128b0b295c 3064 main/binary-arm64/Packages.gz
@@ -67,18 +67,18 @@ SHA256:
  81da36aedd94b3b813a92adc43f84f4dec38bc13fd459782346bf6aaee291b9d 133 old/binary-riscv64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQJCBAEBCAAsFiEEHycG0/5wXwcqwu+uSTMGCgDnEmkFAmKmsVkOHGdudWJzZEBt
-ZS5jb20ACgkQSTMGCgDnEmniXQ//WFT660bZddSsDXs/uhlvRx4/uAshDB8csRta
-OZ9G0YSXsWrrvfGAGCZXS2OFbUC2SbDQY1E3P0B+x9sqa0HjE92LPElFoT51FsXj
-wqodlWUjl+YLkowCWOWjMYXlsV7+kuUgCnhT5g8oYAqlv+zcZQDczhY2XCNfxVsI
-suixxi1NqfKRDomiDyTRJZ6EeArBS/SfCZ2Sp8M+6HZ9n/+mkfxw+NLdlInCoTbf
-AVK/zQhsDdtmlCfTILI6sB4cok30gIMM8nW9PpAjudQIsNECaWL7VfAnswXVJ+w3
-nJO0tYufNgApquRlnv3tzt3RxYGEp8KGXJhuAm+f9izA215mbQHzqySTPRfZ087O
-lc3Juee7yDh/OAWSexR5lgDdyTHnNDxPmd3Lc8/LWEeOvLvBiTNCplSLFSn75I3t
-jo5dkC/Y+TenqnA7xU24kGMSlQm5dM/PTeG8MtmE/xVNPb5ZDWcz9kh0Np1TWnQ/
-8WSaoxdMwdXmvgF43FFVPRMgwNwMYuvF+BdbLwF8DUefBchLxP9bB0LzhOr9sG8n
-xfcGwg6ZKK+8y9cLGRDcTPOlSWJkKpxSCuYCFdUYdxOSTRxaFcRN66pQVuDKU8tA
-DqAoCvbCLwwP7LBI0Pc/ZBMvrNBksdXjHE13t+nnLaeNgi8E/bdeyAf3/oeXw48C
-gvPgbCM=
-=Z6Fb
+iQJCBAEBCAAsFiEEHycG0/5wXwcqwu+uSTMGCgDnEmkFAmKmuBcOHGdudWJzZEBt
+ZS5jb20ACgkQSTMGCgDnEmm31xAAjb0DHmalKpUCANyLuKJMXEaqEY4scM9oN0Ru
+uX2Yw1re6tQUCthZRgnYqXYXNbqPxgaa7F9Tb81YRVggWzHVcseAONTreVUsXaJw
+Wup++78uFW/xAEMNl1x//dkAfBB2PXZsTI8yJGXa/EPXYIYiqj8KsykIvX7Wptu8
+vqNFvUe9B34E4w8to22h7ZV7Qs9MOhUNXLkqvh/emqX9JpMQzeYtvOgKxX6qjiS8
+AE4MWQvLMkVvRYu/3oVmD67+9ik6fS7Jd0gvb8sCoQZeoTdtLCFJLFsmv9rposSy
+7APAyeS+SmjQhCKBm5TyzK3olLMvTzBSDzuzXZTzP5iJCK4Mkqcmwwc/9qW0nGxY
+z3MOZGvMUC2EKjnci8BbbO2yIiNtIa7Grrjcxk1s3GgD3k16HylHTXixTY00cGSv
+nQfCimDUhbpU/GDtaV6ahp1sNPjC2QlnfJLaITcuQXt59Mtu8DdYEorDIjWBTvsn
+0iafavCDGpnZRRM93m7PscSe7l/P+xODDiflWT9rTuCRB8nloIKn4o7kLMp2Vwtl
+jgS8xyA/oe+XcpBRKksYPdQ5B1H7ieUcuRxPQRKKDEocrE0HqAPOwQuqCfcnv70G
+Vl1YHTIDVXM8Q+8imyR3ih28+ry7xIxteIS3Ox0uNVLOG9Nl1zml2dSR1QfnTgOA
+Hauva50=
+=Dge3
 -----END PGP SIGNATURE-----
