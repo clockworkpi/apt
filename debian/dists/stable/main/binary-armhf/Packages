@@ -176,18 +176,18 @@ Description: devterm thermal printer cups filter and config
  add a devterm_printer in CUPS
 
 Package: devterm-wiringpi-cm4-cpi
-Version: 0.12
+Version: 0.13
 Installed-Size: 344
 Maintainer: cuu <gnubsd@me.com>
 Architecture: armhf
 Conflicts: wiringpi
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-wiringpi-cm4-cpi/devterm-wiringpi-cm4-cpi_0.12_armhf.deb
-Size: 51996
-SHA256: fa55b283d230dd6522ed9c73c9a8365441ca2866364448625c64223da8504c92
-SHA1: fa1ae565ae346dc000f03948effcaaf38d935457
-MD5sum: f5c3310691f70e548645cdcf65f2a867
+Filename: pool/main/d/devterm-wiringpi-cm4-cpi/devterm-wiringpi-cm4-cpi_0.13_armhf.deb
+Size: 51948
+SHA256: 41f03ba5cce4807403586cd7e757095d5de80b45eed91866043b035d44419e45
+SHA1: b722e09f540c327628e4b3dd9b7d4b82cc988e73
+MD5sum: 6f377fa32882dd53a6aaaf15c8330b2c
 Description: devterm-wiringpi-cm4-cpi
  devterm-wiringpi-cm4-cpi
 
