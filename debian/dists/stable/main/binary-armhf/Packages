@@ -165,14 +165,14 @@ Maintainer: cuu <gnubsd@me.com>
 Homepage: https://github.com/clockworkpi/DevTerm
 Architecture: armhf
 Depends: socat, fonts-noto-cjk
-Conflicts: devterm-thermal-printer
+Replaces: devterm-thermal-printer
 Priority: optional
 Section: utils
 Filename: pool/main/d/devterm-thermal-printer-cm4/devterm-thermal-printer-cm4_0.1_armhf.deb
-Size: 30566
-SHA256: f063d4e0e794ddd4c40c609e2b9c3bb383ede4ea096ee97d64f444300151f5d9
-SHA1: b047c20e2354901c1197de2a22bbc2ec4fb44012
-MD5sum: 99da0acc31e8cdb73662fa3eedef7f0c
+Size: 30558
+SHA256: 40b4e6b3cead3378356e291447816da5b9e95d81ff6f3090514188abd50a130e
+SHA1: b104784ecf7ea1e1e76b78c3c90635c9b9763b04
+MD5sum: 29aef6956cb25f6cab87d0cc2bc81439
 Description: Thermal printer daemon for DevTerm CM4
  Do not use it with other devterm-thermal-printer package due to the gpio of cm4 is different
 
