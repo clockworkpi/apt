@@ -45,6 +45,22 @@ MD5sum: 81b296285f75ecb343a5ea2ceef45e2e
 Description: cool retro term for DevTerm CM3.
  cool retro term for DevTerm CM3,use it with --fullscreen arg
 
+Package: devterm-fan-temp-daemon-cm4
+Version: 0.1
+Installed-Size: 52
+Maintainer: cuu <gnubsd@me.com>
+Architecture: armhf
+Depends: python2
+Replaces: devterm-fan-temp-daemon-rpi
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-fan-temp-daemon-cm4/devterm-fan-temp-daemon-cm4_0.1_armhf.deb
+Size: 14254
+SHA256: 80c83338c43658343a791716df5d7a0cc62dbd50e2374390923acf885e3de47c
+SHA1: 93773cc496938d5ab32a0ef4e391ef4b6084907f
+MD5sum: 03ff996252a8790ed4fec4ee2213e181
+Description: devterm fan control script for raspberry pi
+
 Package: devterm-fan-temp-daemon-rpi
 Version: 0.12
 Installed-Size: 52
