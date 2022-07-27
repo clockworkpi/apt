@@ -157,6 +157,21 @@ MD5sum: 9a962f00b77dfa924c504a339e017c65
 Description: devterm-i3tools-a06
  devterm-i3tools-a06
 
+Package: devterm-kernel-cm4-rpi
+Version: 0.1
+Installed-Size: 103024
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Conflicts: raspberrypi-kernel, devterm-kernel-rpi
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-kernel-cm4-rpi/devterm-kernel-cm4-rpi_0.1_arm64.deb
+Size: 19387708
+SHA256: 5f5a3885fa0aed3c26869810553ccdac428ec3a6eeb52a6bf5ee8aff849b2666
+SHA1: ba7dd1822ff5e332210ba8e222527dd578a1068a
+MD5sum: b9dbbbc1c9bdc6fef123a42a9155f4da
+Description: devterm cm4 kernel
+
 Package: devterm-kernel-current-cpi-a04
 Version: 0.6
 Installed-Size: 168276
