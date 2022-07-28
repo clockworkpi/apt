@@ -243,7 +243,7 @@ Description: devterm-spotify-tui-cpi for a06 a04
  https://github.com/Rigellute/spotify-tui
 
 Package: devterm-thermal-printer
-Version: 0.36
+Version: 0.37
 Installed-Size: 164
 Maintainer: cuu <gnubsd@me.com>
 Homepage: https://github.com/clockworkpi/thermal_printer
@@ -251,15 +251,15 @@ Architecture: arm64
 Depends: socat, fonts-noto-cjk
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-thermal-printer/devterm-thermal-printer_0.36_arm64.deb
-Size: 44770
-SHA256: 41dd10b0494ab9caaa6e8c9bd875204fa87caa45de52e797ee193c94b90c1798
-SHA1: 977dabb0df65cb2317f05cc9b37af9427b577269
-MD5sum: 3a3bb011bb94066d24cd5e24afb51f4a
+Filename: pool/main/d/devterm-thermal-printer/devterm-thermal-printer_0.37_arm64.deb
+Size: 44758
+SHA256: 79095f9eebe611579e91202ca504adb1b038216462cb2a4febac9d56ec2ac72b
+SHA1: a39911b7364156090fa5104204515a9eed7ea5c1
+MD5sum: 67ece7bc98b2aa37904844ef1856fb6b
 Description: Thermal printer daemon for DevTerm
 
 Package: devterm-thermal-printer-cm4
-Version: 0.1
+Version: 0.11
 Installed-Size: 124
 Maintainer: cuu <gnubsd@me.com>
 Homepage: https://github.com/clockworkpi/DevTerm
@@ -268,11 +268,11 @@ Depends: socat, fonts-noto-cjk
 Replaces: devterm-thermal-printer
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-thermal-printer-cm4/devterm-thermal-printer-cm4_0.1_arm64.deb
-Size: 30734
-SHA256: 19644be361da12f54ab52f65c4e601d08de0fe67238f1d1447492619e552d2f1
-SHA1: 6e1ac123059ef760495c1e464e5ce3dff8bed1eb
-MD5sum: 701bd19c6816ba7ac3f1b5f3a8feab5e
+Filename: pool/main/d/devterm-thermal-printer-cm4/devterm-thermal-printer-cm4_0.11_arm64.deb
+Size: 30726
+SHA256: 90425225d4d5ea44eefd9d0f7f2720c65988d9384c67ee0c3cc2b944d26d69fc
+SHA1: e20423c3e9d31e4c791598ea278cc2e2342865a1
+MD5sum: ca87b2298ca16c0286b253aa2843b580
 Description: Thermal printer daemon for DevTerm CM4
  Do not use it with other devterm-thermal-printer package due to the gpio of cm4 is different
 

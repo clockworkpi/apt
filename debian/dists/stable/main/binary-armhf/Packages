@@ -159,7 +159,7 @@ Description: CaveStory for DevTerm CM3.
  CaveStory Game for DevTerm CM3
 
 Package: devterm-thermal-printer
-Version: 0.34
+Version: 0.35
 Installed-Size: 164
 Maintainer: cuu <gnubsd@me.com>
 Homepage: https://github.com/clockworkpi/thermal_printer
@@ -167,15 +167,15 @@ Architecture: armhf
 Depends: socat, fonts-noto-cjk
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-thermal-printer/devterm-thermal-printer_0.34_armhf.deb
-Size: 46026
-SHA256: cec7761291e7645f727a9aaa021496ea2c6555d27e8b8f19d872c2c1f1b53ab3
-SHA1: 45b98d6b9aaf752346806a318d7280f503905599
-MD5sum: 3c7818a784c748ff9343ef42f8a2f21a
+Filename: pool/main/d/devterm-thermal-printer/devterm-thermal-printer_0.35_armhf.deb
+Size: 46046
+SHA256: 88e45c2551d8e42a6a85c3c5390bde3ed1d89301768f5fe902dd0f6444bffc82
+SHA1: 8082f4ca718f9b5886da1213ccbe4dcac6c63052
+MD5sum: 79c01b28b08e249e7389fe75007f509d
 Description: Thermal printer daemon for DevTerm
 
 Package: devterm-thermal-printer-cm4
-Version: 0.1
+Version: 0.11
 Installed-Size: 120
 Maintainer: cuu <gnubsd@me.com>
 Homepage: https://github.com/clockworkpi/DevTerm
@@ -184,11 +184,11 @@ Depends: socat, fonts-noto-cjk
 Replaces: devterm-thermal-printer
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-thermal-printer-cm4/devterm-thermal-printer-cm4_0.1_armhf.deb
-Size: 30558
-SHA256: 40b4e6b3cead3378356e291447816da5b9e95d81ff6f3090514188abd50a130e
-SHA1: b104784ecf7ea1e1e76b78c3c90635c9b9763b04
-MD5sum: 29aef6956cb25f6cab87d0cc2bc81439
+Filename: pool/main/d/devterm-thermal-printer-cm4/devterm-thermal-printer-cm4_0.11_armhf.deb
+Size: 30566
+SHA256: 4e5f6a8aee9247e31004fa891cbb1d777e09ed33f8c2a896ba77028ce740ffc4
+SHA1: d1dabba72b763b9dad0d01639436f7e5c4c822b0
+MD5sum: e29e419ee90ad8a94a5b23da255ade05
 Description: Thermal printer daemon for DevTerm CM4
  Do not use it with other devterm-thermal-printer package due to the gpio of cm4 is different
 
