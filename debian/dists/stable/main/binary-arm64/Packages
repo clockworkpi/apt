@@ -309,6 +309,22 @@ MD5sum: 7514bd8968b8f22d08afb314968d9f46
 Description: devterm-tic80-cpi for arm64
  devterm-tic80-cpi for arm64
 
+Package: devterm-wiringpi-cm4-cpi
+Version: 0.1
+Installed-Size: 388
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Conflicts: wiringpi
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-wiringpi-cm4-cpi/devterm-wiringpi-cm4-cpi_0.1_arm64.deb
+Size: 58312
+SHA256: d043ccc67192ca5be278797c7949bf054c3eedc8dd8b60d6b1e80406cb364bb4
+SHA1: 22fd6ce298f9760d72ea3d84bbb4365e506c6010
+MD5sum: 9a0dcbd727e9a263314f67e6fb4253b6
+Description: devterm-wiringpi-cm4-cpi
+ devterm-wiringpi-cm4-cpi
+
 Package: devterm-wiringpi-cpi
 Version: 0.11
 Installed-Size: 204
