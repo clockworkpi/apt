@@ -62,6 +62,22 @@ MD5sum: 6da4a1787111083f54eb145afcaf06e2
 Description: devterm fan control for a06
  devterm fan control for a06
 
+Package: devterm-fan-temp-daemon-cm4
+Version: 0.1
+Installed-Size: 52
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Depends: python2
+Replaces: devterm-fan-temp-daemon-rpi
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-fan-temp-daemon-cm4/devterm-fan-temp-daemon-cm4_0.1_arm64.deb
+Size: 14250
+SHA256: 158d2737b90dbd210628ab46db6ffd211fb72984ef41a4e796dfba902bfff671
+SHA1: b2a2b8dc8f10f612a76ec072ca73d7e53811510f
+MD5sum: b68dcd476f49acc0e45c7b203de15c4b
+Description: devterm fan control script for raspberry pi cm4
+
 Package: devterm-fan-temp-daemon-rpi
 Version: 0.12
 Installed-Size: 52
