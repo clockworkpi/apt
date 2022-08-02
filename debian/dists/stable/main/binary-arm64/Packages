@@ -14,6 +14,23 @@ MD5sum: 93ccdbbecfdab6a31448a1a72b8bd5fe
 Description: devterm-audio-patch
  devterm audio patch
 
+Package: devterm-backlight-rpi-cm4
+Version: 0.1
+Installed-Size: 68
+Maintainer: cuu <gnubsd@me.com>
+Homepage: https://github.com/cuu/rpi-backlight
+Architecture: arm64
+Depends: xbindkeys
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-backlight-rpi-cm4/devterm-backlight-rpi-cm4_0.1_arm64.deb
+Size: 18186
+SHA256: 483c59c3d230c6cfc8a8401ec35c95a3553b01e3e1e44df35e4558133e7b44fb
+SHA1: ffd7f42a1d618a2e8d5dd17f23a55869e1ea87ff
+MD5sum: a0204d37b68f4788cc9797a78414eea7
+Description: control devterm cm4 backlight by fn + <>
+ control devterm cm4 backlight by fn + <>
+
 Package: devterm-cavestory-cpi
 Version: 0.1
 Installed-Size: 10876
