@@ -44,6 +44,19 @@ SHA1: c9d06cd7b8675a97ed15928805e250f3fe2a0b82
 MD5sum: 8f7d49a2b4446f78c6f3f99785e36cd0
 Description: devterm fan control script for raspberry pi
 
+Package: devterm-kernel-r01
+Version: 0.1
+Maintainer: cuu<gnubsd@me.com>
+Architecture: riscv64
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-kernel-r01/devterm-kernel-r01_0.1_riscv64.deb
+Size: 11288012
+SHA256: 3168ff91c785909812a836d0b8f508e1f70450b8879d78e8a244d5abb18902b4
+SHA1: 97731da62acd7396a1b18081917a5791e1fb8785
+MD5sum: 08b70c23d9b2eeb382f37ec9dcb83403
+Description: devterm kernel for riscv64 R01
+
 Package: devterm-keyboard-firmware
 Version: 0.30
 Installed-Size: 148
