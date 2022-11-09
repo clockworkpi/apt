@@ -48,17 +48,17 @@ Description: devterm-cavestory-cpi for a06 a04
  devterm-cavestory-cpi for a06 a04
 
 Package: devterm-cavestory-cpi-cm4
-Version: 0.11
+Version: 0.12
 Maintainer: cuu<gnubsd@me.com>
 Architecture: arm64
 Depends: libsdl2-2.0-0, libsdl2-gfx-1.0-0, libsdl2-image-2.0-0, libsdl2-mixer-2.0-0, libsdl2-net-2.0-0, libsdl2-ttf-2.0-0
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-cavestory-cpi-cm4/devterm-cavestory-cpi-cm4_0.11_arm64.deb
-Size: 1275448
-SHA256: f4cc39e48d52a604c02bbf667bfa5cfa96c11da4c28d2ae2ecf8f8bad4b7db17
-SHA1: cd04dc29200b12b9be342ae17eae2957c9954de1
-MD5sum: c8aadc66a92b43938318f902ce1911b4
+Filename: pool/main/d/devterm-cavestory-cpi-cm4/devterm-cavestory-cpi-cm4_0.12_arm64.deb
+Size: 1581552
+SHA256: 42021ffb6d78d2b44c80077e8842d214ea0bab4fe0d2092c551eab2ad068e6cd
+SHA1: 46d1efc9a0fd372a5cb3bac0e7e4dc836e7d0c91
+MD5sum: f880e4eda684a02bf0e78a02ded772b3
 Description: devterm-cavestory-cpi-cm4 for cm4
 
 Package: devterm-fan-daemon-cpi-a04
