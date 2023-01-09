@@ -1,0 +1,5 @@
+Component: main
+Origin: clockworkpi.github.io/apt
+Label: clockworkpi.github.io/apt/
+Architecture: riscv64
+Description: cpi gameshell repository

@@ -1,0 +1,13 @@
+Package: gameshell-love2d
+Version: 0.1
+Maintainer: cuu<gnubsd@me.com>
+Architecture: armhf
+Priority: optional
+Section: utils
+Filename: pool/main/g/gameshell-love2d/gameshell-love2d_0.1_armhf.deb
+Size: 3694638
+SHA256: 7f4320fa883b3bb6c05059ab5460924ffc8318fbe85d08dec10ff4317e3afa1d
+SHA1: 235c57614facd6fb2f319cd0f3d0c15938e979f6
+MD5sum: 19a354c719a54f7595d08be2f5260b5d
+Description: compiled love2d for gameshell
+

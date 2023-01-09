@@ -1,0 +1,5 @@
+Component: old
+Origin: clockworkpi.github.io/apt
+Label: clockworkpi.github.io/apt/
+Architecture: arm64
+Description: cpi gameshell repository
