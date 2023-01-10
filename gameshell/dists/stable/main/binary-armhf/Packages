@@ -7,8 +7,8 @@ Priority: optional
 Section: utils
 Filename: pool/main/g/gameshell-love2d/gameshell-love2d_0.11_armhf.deb
 Size: 3693340
-SHA256: 6f78d2861b0361db712a2c995a5aea00fcb802fbcfcda46d78b90f6740614325
-SHA1: c9f469d219a7269649cd3fa8fa9ab77465e2b0d5
-MD5sum: aadcb5789827e6cc980d97cfda1f14b2
+SHA256: ef1a9ad51d42595e8edb873f3a0dad3004a48b2db4daf068fa5df132345a1a3c
+SHA1: 92bb42e511d88ba55d2725eec85e0979bb23f535
+MD5sum: 3c096381aa3002b088410dcc53474517
 Description: compiled love2d for gameshell
 

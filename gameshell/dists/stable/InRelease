@@ -4,13 +4,13 @@ Hash: SHA512
 Origin: clockworkpi.github.io/apt
 Label: clockworkpi.github.io/apt/
 Codename: stable
-Date: Tue, 10 Jan 2023 05:32:15 UTC
+Date: Tue, 10 Jan 2023 05:35:11 UTC
 Architectures: armhf arm64 riscv64
 Components: main old
 Description: cpi gameshell repository
 MD5Sum:
- c572a4c18a43fe8c7cbdf6f8f87f7552 644 main/binary-armhf/Packages
- 741f4bd7fed70f8cd0f942461ff154ec 419 main/binary-armhf/Packages.gz
+ 933e21dcfdc759d229a858e3801cc984 644 main/binary-armhf/Packages
+ e765f711e877792acfc2b6dc3e8dd014 418 main/binary-armhf/Packages.gz
  be3496d18fbe068ff0965c93f0ff1fd1 142 main/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
@@ -28,8 +28,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 old/binary-riscv64/Packages.gz
  a8731b1844552e37e9ccf07807860fb2 143 old/binary-riscv64/Release
 SHA1:
- 5c3fc2faee772a28184be74fd44ac198d59dd442 644 main/binary-armhf/Packages
- 415f64198b6eb8765df552c4389ee1b11cddf9da 419 main/binary-armhf/Packages.gz
+ 6b9fc76a45064fba8d83f45e57d8788bd6cc19c5 644 main/binary-armhf/Packages
+ 02b2ee6b14a20863343a2321a98931e7a67130ab 418 main/binary-armhf/Packages.gz
  3a98b9f4aea29cdbbc3b2c9a093446614b561697 142 main/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
@@ -47,8 +47,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 old/binary-riscv64/Packages.gz
  0da5f969bef815743a8c51c934333f805677d19f 143 old/binary-riscv64/Release
 SHA256:
- ff0fd45fcf6fad95e0feb945e5895bd4ccd56d22836dcee68a6aa79f043bfc46 644 main/binary-armhf/Packages
- 7453db3b4eeed39dac84c2fac953520efae399a0da2438c641a4cc05978484a4 419 main/binary-armhf/Packages.gz
+ 1fd1869c9e7472dd742040b36661a7fe437794c0d787b6cdee2a468b2f58b9db 644 main/binary-armhf/Packages
+ 8baf913bd59495eb4fa373a636c119094d7b9fd2dd2108e1867a71070ddc0f18 418 main/binary-armhf/Packages.gz
  d3275d4251ae133711ab1133c9d1ee9cff0815362ac4c8baa463d550388f8902 142 main/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
@@ -67,18 +67,18 @@ SHA256:
  c42f3d73d347fab7c420049fb84876f411ed71737222ebb0ae06cc35b9ed1a31 143 old/binary-riscv64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQJCBAEBCgAsFiEEHycG0/5wXwcqwu+uSTMGCgDnEmkFAmO8+F8OHGdudWJzZEBt
-ZS5jb20ACgkQSTMGCgDnEmk36g/6AgK41hDFZIlTslDX2ofrbbVvE27XhNB/W4pZ
-qcDm1Q0EzE4DWl7mLmVwRdtBn7NvFTZC2ID0ZKT4OxquBf6CkjHMZLWK4gDm27eK
-6OrV34+68NRH2xDBoII5CPabsyR8EGMwZtmL2P968WyVOMC6Itd1Qlc2QXnXOPj4
-HGL3PTklnwOozK8/RcRCWqzLoEJ5q1VnmOgGUh2yN0qb2J6K1ehfvMv+E68rog2I
-c9gHEsK0GmSCwCP4a+r1o5RQj6NzmCO7HGJxQ7wDnq94S3v98zwbyeYyHCSMkdYv
-wiSmEdCxqqHeeTgExFLsfm+bQNBrr7jhXLUNcHP/U6wp4X2/lbRwA9guXpQxRZ35
-YFfKjU5r/rgtkJv7tAbIg3O7qGFzsYWH9dAmX6FCCML2OnxcPDTSkEWJBx7e3KGI
-AvYdTmY1kwAcEHPjNZHUjBHSUq8OkLodzUqIIxgqgztw/wVK3bK0gDoWBrUtHj/p
-72otkJgssJS59CYaPAtywB4lqaBILfmnb1Ui03LgRWMG1SLS1QeYEjAWpVqrQzZz
-7UN5BcTj9E3WgokSfVJskRqsgjovWhDgPzqfOYJvblsIePfVhJ/BYGo6GU6sQXOY
-9KxMr3nJe5k3PHJ+KnT9PtyQYrYRN/UPs0MRI0ma+QO6aweKJKyOrqH2AbIfR958
-nH7sJT0=
-=eg2+
+iQJCBAEBCgAsFiEEHycG0/5wXwcqwu+uSTMGCgDnEmkFAmO8+Q8OHGdudWJzZEBt
+ZS5jb20ACgkQSTMGCgDnEmlsGQ/+ORen5NKbSye79C8h922MtAxl9vwa0H4/+9pd
+jBpf8DMuCqw5RVE0w6O+rSspKp1dnFXdnnN2RUkNVJbygwcpm+fW5JNavG/uhQgZ
+6+LIFkKUMVx3L0XUF9XUZ7q9s4paDTw+mJVxySMZwEx7eS8+Mogs89+Z7KAowM/1
+Tif6VN3wBwnANzyA44KEWVQGrHYsCXjfL/sAeDTGqVDyVe6uKJJrAoCJvWe3DpCU
+uwKajdxDBttHdDbe+ciALj3ZRv6n/yiYblFFs26UH8/7Ftj/a2XE2faUvF33N9Lh
+Ca+m9s2v6v8JXNGlhzVNbNfaKv29gYtGRVANyOSwg1qi5VE9/ns+cRDedr1fp2v1
+eQ/Ua/uItXAcfe4B2lwIksizyvhkjdYIaDbZ5D2QziGYUjV8VZdZsaqeLKi+liUR
+zNjSHuL8fYzp8uByhuB41JIDnugBROb2KXt4NMOHhyUeJSdvsSFul6e7XoyOmPoh
+EE9qgvkt2j1yvU6Va1sBGQQG7fEkaBNEXQO96O5CwOdrRZ9gkN5r1DRR1SdoY/B7
+Yt9Dn2B30md3w5ZhnVinNJBQpcprXKSzZ4AGlCC9+lLKU+w9HwKot00iV2unH1YI
+3ljzL3chnzvpSxUbW+EqXd0cxkYKcSwvMW+dpu8FQAX7SC9MMlTsbOYmvOfEjpv4
+ZfKyALk=
+=40IN
 -----END PGP SIGNATURE-----
