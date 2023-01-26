@@ -4,13 +4,13 @@ Hash: SHA512
 Origin: clockworkpi.github.io/apt
 Label: clockworkpi.github.io/apt/
 Codename: stable
-Date: Tue, 10 Jan 2023 06:21:54 UTC
+Date: Thu, 26 Jan 2023 03:48:43 UTC
 Architectures: armhf arm64 riscv64
 Components: main old
 Description: cpi gameshell repository
 MD5Sum:
- b4f628c15c061dbb8e9e0734b1aa4a4e 1985 main/binary-armhf/Packages
- 608d18a1cb61314690908305ea4ee905 944 main/binary-armhf/Packages.gz
+ ab5037de47681ebb8196fd5feac4eddb 1990 main/binary-armhf/Packages
+ 3d885956b256c319cc6739c952a72243 944 main/binary-armhf/Packages.gz
  be3496d18fbe068ff0965c93f0ff1fd1 142 main/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
@@ -28,8 +28,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 old/binary-riscv64/Packages.gz
  a8731b1844552e37e9ccf07807860fb2 143 old/binary-riscv64/Release
 SHA1:
- b9f0431f3670695f69b6e0255b51fc771dd75064 1985 main/binary-armhf/Packages
- acf30613790275fd361b484bdea3df856594909e 944 main/binary-armhf/Packages.gz
+ 099a0991fb384e4f1d6bc86a12bb8f4ef182434f 1990 main/binary-armhf/Packages
+ b469d44499372fb63dbaf36b87378a7c213ad8b1 944 main/binary-armhf/Packages.gz
  3a98b9f4aea29cdbbc3b2c9a093446614b561697 142 main/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
@@ -47,8 +47,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 old/binary-riscv64/Packages.gz
  0da5f969bef815743a8c51c934333f805677d19f 143 old/binary-riscv64/Release
 SHA256:
- b1ce4ace84e99f737a648dbca2389ed230646d7da4078d7d62107f7e106316c2 1985 main/binary-armhf/Packages
- 32df02ad9a06b202acda51267a6a050d8a80fd73cebf81447198087289f1ecb8 944 main/binary-armhf/Packages.gz
+ 854fef08a0cbe7992a26631afd5a9d8a3701718ac0d3e389b71e870e2e0d2b2c 1990 main/binary-armhf/Packages
+ 77dae5c8308e6d42a31a0268f69efa2520ae4b414845b09a92f08c26b9a3cdd3 944 main/binary-armhf/Packages.gz
  d3275d4251ae133711ab1133c9d1ee9cff0815362ac4c8baa463d550388f8902 142 main/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
@@ -67,18 +67,18 @@ SHA256:
  c42f3d73d347fab7c420049fb84876f411ed71737222ebb0ae06cc35b9ed1a31 143 old/binary-riscv64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQJCBAEBCgAsFiEEHycG0/5wXwcqwu+uSTMGCgDnEmkFAmO9BAIOHGdudWJzZEBt
-ZS5jb20ACgkQSTMGCgDnEmnF+BAAmv2E0iRDtGjHsiPcnfsnw6bGf+vgyjhZEooo
-zPh75IXhPXtiDxAmRlDSJZ7QlPxrAMostVEHQPgnWSTvaqIbmzRPbiHqA5GZ0Eqg
-khTTxpT5kqRaUu8EmgecANstdP6H2psYGy85eXsx41TlNjwdCmzADDoChSmjnjnj
-uHk0qSB5BL/7N9cfzYn1LPDrbHPfLn8mOYSQxDI10Ev4KVTb6Vf0RKZG4O8Gk6g2
-eeT8FhYFzC4hSJCX5EVyIMrjVF9OvcLlQMuBHkRwMyxdA5PCmL4zzv+/Uua8rvbf
-J4QuJr1AtyLtuBj6bQTFZB/pbFKnhiYhhFrrGNoke9YRmJ2Kjp0gKoW6IlbN/ArO
-3fE1ysTTBqp8nHB3R6USREvfGw2pKfpkuIj4uG89SzWxm87WABIKTe1BhZC9DuWn
-Z7xxSJ0dWRv8NG0FNVAZ9E5/LR0kmanCvv6FmtS4T7GU8zM+NARqZKTEtpYESDmJ
-puI+gDOshQMPPyir5X+4rwQTp41Ec9B0joy0Mg/qaeCVogP6h9WmqAZgJhMGi3FA
-g5A2IzMj9w6NiKF/nxAgCL/kNHTVSqImBdArUmOc0WzlcpDJlUGYXOLuCIwcSX2q
-frM4V8iiKWAIauFxpgl6e5eOJamzKnNMRXBdglGKvuGoViiE9HWZYhttKRN50dUC
-kVJvwdM=
-=isWp
+iQJCBAEBCgAsFiEEHycG0/5wXwcqwu+uSTMGCgDnEmkFAmPR+BsOHGdudWJzZEBt
+ZS5jb20ACgkQSTMGCgDnEmkDIhAAsMh2mWWefZkvyu+SvxQox7suIWk98CH0PW00
+KaMTWCcUcKC7nFEZidg/xPfj1u94ts9Dz3YjLlBmVfBADHND957kGW8brBNN/SHh
+I3hyqHW6VuT+krbzxvv2Ytia8h5Wjqnr/Y1cjJz9t1Ta/CfXvphmwIJiQu1BXzSq
+NyGJ2p0ss1zNhG8RAbAmNTnW4F5RkXe0xtTwXd9Qek/n+sCIGi5t+BGmnUKYcNqN
+ZoyNh4sn16OdsrBMtf3Tqw/vluAgITx5fwLNbCSSw29yJFgm68xPFIfKiOTRZYHb
+rl9936nM9wSnn66QjK1cOu0Qmi9qNQmWM3BNfXB7w3IVNqBXUHT5YkFZpELgiwud
+9xX6lVmzSh97G6lNL3L4qZd/8MxY6lnivivA6p/6B58EK6AiKXYMV5BA7DiPApUw
+19QocnsswTDnW7yJtVW7sJB1b/ge6yG2OtGhqJ5/mTE1ctzSHVG8CcmKL7X3i94e
+/d6pZFua9Qt7H/uV7XmKIeewKJPB6m8cCqwAcslv/0SvOHT91m3ciRUW0XGigkt9
+qTZxw9MSruiibH7yeDtT5tWpdNP7WjDddMO2ATwFHjyuXS/LJmtECJsiK2lY/m6n
+E+0IxlTmkSyPJiAoE2zAo5IFzn2s8nd1KdBJRE3O4WIRzhMTIlR0L09k1WKghAsy
+md2peAM=
+=Asxd
 -----END PGP SIGNATURE-----
