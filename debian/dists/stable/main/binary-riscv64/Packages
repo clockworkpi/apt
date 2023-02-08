@@ -77,6 +77,20 @@ Description: devterm-keyboard-firmware
  .
  if you need to flash, do it manually
 
+Package: devterm-retroarch
+Version: 0.1
+Maintainer: cuu<gnubsd@me.com>
+Architecture: riscv64
+Conflicts: retroarch
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-retroarch/devterm-retroarch_0.1_riscv64.deb
+Size: 2640276
+SHA256: c0a500a02de27092702492d3ef44b78f2fdfd7150cde6cc307482467563eea07
+SHA1: fed681c0baa734976a4b388b4ee9850bc6ff5b95
+MD5sum: dd24e4e2de905a1032e6f201ee2acb0d
+Description: compiled retroarch for devterm / uconsole
+
 Package: devterm-thermal-printer
 Version: 0.39
 Maintainer: cuu <gnubsd@me.com>
