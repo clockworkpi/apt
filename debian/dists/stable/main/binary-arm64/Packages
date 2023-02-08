@@ -324,18 +324,17 @@ Description: Thermal printer daemon for DevTerm CM4
  Do not use it with other devterm-thermal-printer package due to the gpio of cm4 is different
 
 Package: devterm-thermal-printer-cups
-Version: 0.1
-Installed-Size: 80
+Version: 0.11 
 Maintainer: cuu <gnubsd@me.com>
 Architecture: arm64
-Depends: cups, cups-client, devterm-thermal-printer
+Depends: cups, cups-client
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-thermal-printer-cups/devterm-thermal-printer-cups_0.1_arm64.deb
-Size: 22566
-SHA256: a74c2142a225742b5d1c0d22450fee86ac0bd91d660737d752fee3e858717f2c
-SHA1: 0287d950da02f90a894aad8259a932e558a14125
-MD5sum: ebe5d3b4347d95870d1a25eac30a3436
+Filename: pool/main/d/devterm-thermal-printer-cups/devterm-thermal-printer-cups_0.11_arm64.deb
+Size: 9724
+SHA256: 7b4859c8af22c560df4072334a82192c775cc9096d5d9e99d770c2b168004446
+SHA1: eda7a30dd05172ac355e03b93134c2aff59c6fef
+MD5sum: 75dea119577b3c3281a6dd33ff2eff27
 Description: devterm thermal printer cups filter and config
  devterm thermal printer cups filter
  add a devterm_printer in CUPS
