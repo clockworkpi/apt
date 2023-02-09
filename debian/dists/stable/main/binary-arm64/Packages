@@ -290,20 +290,20 @@ Description: devterm-spotify-tui-cpi for a06 a04
  https://github.com/Rigellute/spotify-tui
 
 Package: devterm-thermal-printer
-Version: 0.37
-Installed-Size: 164
+Version: 0.38
 Maintainer: cuu <gnubsd@me.com>
-Homepage: https://github.com/clockworkpi/thermal_printer
+Homepage: https://github.com/clockworkpi/DevTerm
 Architecture: arm64
-Depends: socat, fonts-noto-cjk
+Depends: socat, fonts-noto-cjk, devterm-thermal-printer-cups
+Conflicts: devterm-thermal-printer-cm4
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-thermal-printer/devterm-thermal-printer_0.37_arm64.deb
-Size: 44758
-SHA256: 79095f9eebe611579e91202ca504adb1b038216462cb2a4febac9d56ec2ac72b
-SHA1: a39911b7364156090fa5104204515a9eed7ea5c1
-MD5sum: 67ece7bc98b2aa37904844ef1856fb6b
-Description: Thermal printer daemon for DevTerm
+Filename: pool/main/d/devterm-thermal-printer/devterm-thermal-printer_0.38_arm64.deb
+Size: 41156
+SHA256: 169280c77adc316d80ff91010c1216da7db6b04ddf9a914b74407e8fecb2e682
+SHA1: be810ca91296c58070d3c60ada4f5b603a65247a
+MD5sum: d9e3e936976cfb4482a579c5a42147a2
+Description: Thermal printer daemon for DevTerm A04 A06
 
 Package: devterm-thermal-printer-cm4
 Version: 0.11
