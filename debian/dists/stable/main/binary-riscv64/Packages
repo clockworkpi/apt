@@ -138,16 +138,16 @@ MD5sum: fec6adb2754417ff986a894014d20f5a
 Description: devterm-wiringpi-cpi riscv64 d1
 
 Package: xf86-video-fbturbo-r01
-Version: 0.1
+Version: 0.2
 Maintainer: cuu <gnubsd@me.com>
 Homepage: https://github.com/clockworkpi
 Architecture: riscv64
 Priority: optional
 Section: utils
-Filename: pool/main/x/xf86-video-fbturbo-r01/xf86-video-fbturbo-r01_0.1_riscv64.deb
-Size: 119284
-SHA256: 4085bed36263d698b5c81f5a8cbbaa39290e96e186f171b8a098735536f87731
-SHA1: 7b2df5a6b1954cc9b543a0527c0620c4cbf2fcad
-MD5sum: 776566f315bbff40090a3f5132b32470
+Filename: pool/main/x/xf86-video-fbturbo-r01/xf86-video-fbturbo-r01_0.2_riscv64.deb
+Size: 117146
+SHA256: 311e50465f8feb526cf87b40d73c91343f17aca0c59aa284860ceb9f78413e32
+SHA1: bd66ca8bf4aadd67e32959cc93184e8cec10fcb2
+MD5sum: 237e3f99937be2fa14e31fb849e6c108
 Description: xf86-video-fbturbo for devterm R01,https://forum.clockworkpi.com/t/r01-fbturbo-accelerated-2d-graphics-in-x11/8900/
 
