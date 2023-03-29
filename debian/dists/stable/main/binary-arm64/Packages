@@ -404,17 +404,17 @@ Description: devterm-wiringpi-cpi-a04
  devterm-wiringpi-cpi-a04  for a04
 
 Package: uconsole-kernel-cm4-rpi
-Version: 0.1
+Version: 0.11
 Maintainer: cuu <gnubsd@me.com>
 Architecture: arm64
 Conflicts: raspberrypi-kernel, devterm-kernel-rpi, devterm-kernel-cm4-rpi
 Priority: optional
 Section: utils
-Filename: pool/main/u/uconsole-kernel-cm4-rpi/uconsole-kernel-cm4-rpi_0.1_arm64.deb
-Size: 28889164
-SHA256: 3b91ab80dcf3c6e979291886c38662c88b7df1975df8a03ed104c0e8a5f02540
-SHA1: f567c1ad6b935c2ed34071c00bdd1225fcd7a1f9
-MD5sum: e459c18741f5421edd9637d7d17d95f9
+Filename: pool/main/u/uconsole-kernel-cm4-rpi/uconsole-kernel-cm4-rpi_0.11_arm64.deb
+Size: 28889666
+SHA256: a1bc5cff1701a33e0a8322645474bcb4ee89e02c83ccdbc4bc4248425224dce5
+SHA1: 9db77bdafbb306cc74599fda00f8d5a4ad17ecde
+MD5sum: 33bbca25a50696cb097e561afa288c64
 Description: uconsole cm4 kernel
 
 Package: uconsole-kernel-current-cpi-a06
