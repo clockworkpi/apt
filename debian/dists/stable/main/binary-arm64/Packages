@@ -404,18 +404,18 @@ Description: devterm-wiringpi-cpi-a04
  devterm-wiringpi-cpi-a04  for a04
 
 Package: uconsole-first-start-a06
-Version: 0.11
+Version: 0.12
 Maintainer: cuu <gnubsd@me.com>
 Architecture: arm64
 Depends: zenity
 Conflicts: devterm-first-start-a06
 Priority: optional
 Section: utils
-Filename: pool/main/u/uconsole-first-start-a06/uconsole-first-start-a06_0.11_arm64.deb
-Size: 2638
-SHA256: f61456daf90e774360d872fcc8ca85debe147cc73e1e2fcf4b25b2d940382294
-SHA1: 15ee990c5ed67331ba78efaa061f13ef6159c795
-MD5sum: 41ad5319ec55376090411782ddac8dc0
+Filename: pool/main/u/uconsole-first-start-a06/uconsole-first-start-a06_0.12_arm64.deb
+Size: 2700
+SHA256: 6c6e6b12b7541e2f743a3d0763eb143af855f891a5113aca5204c06ffbba975f
+SHA1: a4faa64cee92ea109b6a16aeb4ec7a5b52290cb4
+MD5sum: cccc70723d0d4eeb6fdf4712fdf24a11
 Description: first start tip window based by zenity
  first start tip window based by zenity
 
