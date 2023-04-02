@@ -213,10 +213,10 @@ Conflicts: raspberrypi-kernel, devterm-kernel-rpi
 Priority: optional
 Section: utils
 Filename: pool/main/d/devterm-kernel-cm4-rpi/devterm-kernel-cm4-rpi_0.11_arm64.deb
-Size: 28915852
-SHA256: c2430c5b081918b4ae49255b7db7eb0c07cadf443f2e0d11b2a9c37fa7dfb027
-SHA1: 234fa1b6f23ec7a72a86bccb487f4566000c6e31
-MD5sum: 94bbc1b4784dddd2c4dda8576d159ed8
+Size: 28886440
+SHA256: 5628ce16c876b087fcf2b9bfb3a3af51ba3eae9625d3ce048f4790b1db768246
+SHA1: 20928967cc0a25a8f02f5eb62c808388c02918e3
+MD5sum: 723fe01a6ccc34f42317ae810cac9222
 Description: devterm cm4 kernel
 
 Package: devterm-kernel-current-cpi-a04
