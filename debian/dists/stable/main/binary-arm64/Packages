@@ -206,17 +206,17 @@ Description: devterm-i3tools-a06
  devterm-i3tools-a06
 
 Package: devterm-kernel-cm4-rpi
-Version: 0.11
+Version: 0.12
 Maintainer: cuu <gnubsd@me.com>
 Architecture: arm64
 Conflicts: raspberrypi-kernel, devterm-kernel-rpi
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-kernel-cm4-rpi/devterm-kernel-cm4-rpi_0.11_arm64.deb
-Size: 28886440
-SHA256: 5628ce16c876b087fcf2b9bfb3a3af51ba3eae9625d3ce048f4790b1db768246
-SHA1: 20928967cc0a25a8f02f5eb62c808388c02918e3
-MD5sum: 723fe01a6ccc34f42317ae810cac9222
+Filename: pool/main/d/devterm-kernel-cm4-rpi/devterm-kernel-cm4-rpi_0.12_arm64.deb
+Size: 28886438
+SHA256: 0d57fdc391ca56a4edda56eb345601e176216f342f31989b22737a2bcb509100
+SHA1: 0577c0e7490634bbcf91d6cb4df035e66ba94d48
+MD5sum: aa3a8125009bcb86f89e25bc1dce6be7
 Description: devterm cm4 kernel
 
 Package: devterm-kernel-current-cpi-a04
