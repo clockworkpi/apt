@@ -138,17 +138,17 @@ MD5sum: fec6adb2754417ff986a894014d20f5a
 Description: devterm-wiringpi-cpi riscv64 d1
 
 Package: uconsole-kernel-r01
-Version: 0.12
+Version: 0.13
 Maintainer: cuu<gnubsd@me.com>
 Architecture: riscv64
 Conflicts: devterm-kernel-r01
 Priority: optional
 Section: utils
-Filename: pool/main/u/uconsole-kernel-r01/uconsole-kernel-r01_0.12_riscv64.deb
-Size: 5847618
-SHA256: 22d697502e98430514b6ae579b00850d230256bc997cad6256a8101a6ee99a86
-SHA1: 5b9a77d133b68efac0aaa1ae4a7ac632d615e45f
-MD5sum: 723d82ad3ad8fdad9101a5e5ac906b4d
+Filename: pool/main/u/uconsole-kernel-r01/uconsole-kernel-r01_0.13_riscv64.deb
+Size: 6128456
+SHA256: 0e65b2a11cb0050730e463d466b68bfee88d59607588c1792b10c82a6da59650
+SHA1: 1e2f03f554fcd869f673d5a4727800abad79e09b
+MD5sum: 65b5b2e11aa13f6ab1e8c98ff5b5e199
 Description: uConsole kernel for riscv64 R01
 
 Package: xf86-video-fbturbo-r01
