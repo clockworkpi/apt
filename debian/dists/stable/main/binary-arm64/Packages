@@ -420,17 +420,17 @@ Description: first start tip window based by zenity
  first start tip window based by zenity
 
 Package: uconsole-kernel-cm4-rpi
-Version: 0.11
+Version: 0.12
 Maintainer: cuu <gnubsd@me.com>
 Architecture: arm64
 Conflicts: raspberrypi-kernel, devterm-kernel-rpi, devterm-kernel-cm4-rpi
 Priority: optional
 Section: utils
-Filename: pool/main/u/uconsole-kernel-cm4-rpi/uconsole-kernel-cm4-rpi_0.11_arm64.deb
-Size: 28889666
-SHA256: a1bc5cff1701a33e0a8322645474bcb4ee89e02c83ccdbc4bc4248425224dce5
-SHA1: 9db77bdafbb306cc74599fda00f8d5a4ad17ecde
-MD5sum: 33bbca25a50696cb097e561afa288c64
+Filename: pool/main/u/uconsole-kernel-cm4-rpi/uconsole-kernel-cm4-rpi_0.12_arm64.deb
+Size: 28861642
+SHA256: 82e1eccdb26602a03815d4249c051b4b0249d08aa5dfe129dc86d81f4914afb9
+SHA1: f97f3d5c3b569554f0faa3bacd1f33ce4dc01dc8
+MD5sum: bc2c45a657429010ca3fbfb6e7cd3e77
 Description: uconsole cm4 kernel
 
 Package: uconsole-kernel-current-cpi-a06
