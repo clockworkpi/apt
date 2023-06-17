@@ -447,3 +447,17 @@ MD5sum: 65cba1339203205e721aa90c6142008f
 Description: kernel image for uconsole a06
  kernel image for uconsole a06
 
+Package: uconsole-love2d
+Version: 0.1
+Maintainer: cuu<gnubsd@me.com>
+Architecture: arm64
+Depends: libfreetype6, libmodplug1, libopenal1, libgl1-mesa-dev, libsdl2-2.0-0, libsdl2-gfx-1.0-0, libsdl2-mixer-2.0-0, libsdl2-net-2.0-0, libsdl2-ttf-2.0-0,libsdl2-image-2.0-0,libtheora0,libvorbis0a, libmpg123-0,libluajit-5.1-2
+Priority: optional
+Section: utils
+Filename: pool/main/u/uconsole-love2d/uconsole-love2d_0.1_arm64.deb
+Size: 21121204
+SHA256: ebaf99575bc185cf322ffb3038a942d1c0dd3ff6559a18d425a9f38fe50cc02a
+SHA1: c8716ccd1f83d1becedeabd69f1ea7409358dc67
+MD5sum: ea4b087e7395289c0e2e02fb9786c52a
+Description: compiled love2d for uConsole
+
