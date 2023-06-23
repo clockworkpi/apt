@@ -402,6 +402,21 @@ MD5sum: 7fc072d3cda294a762e8b58fc151aa17
 Description: devterm-wiringpi-cpi-a04
  devterm-wiringpi-cpi-a04  for a04
 
+Package: uconsole-4g-util-cm4
+Version: 0.1
+Maintainer: cuu<gnubsd@me.com>
+Architecture: arm64
+Conflicts:
+Depends: devterm-wiringpi-cm4-cpi 
+Priority: optional
+Section: utils
+Filename: pool/main/u/uconsole-4g-util-cm4/uconsole-4g-util-cm4_0.1_arm64.deb
+Size: 2324
+SHA256: 7441762ff922e8c26621bac45d55813b9ca56c258cb6817163bd556769abd539
+SHA1: d3dde80e48312120162c9458578b1b8d2399fcf4
+MD5sum: b93bcf771b7520831ac45dba8baf805e
+Description: utils for enable/disable for uconsole 4G extension
+
 Package: uconsole-first-start-a06
 Version: 0.12
 Maintainer: cuu <gnubsd@me.com>
