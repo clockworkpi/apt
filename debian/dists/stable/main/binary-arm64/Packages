@@ -417,6 +417,20 @@ SHA1: d3dde80e48312120162c9458578b1b8d2399fcf4
 MD5sum: b93bcf771b7520831ac45dba8baf805e
 Description: utils for enable/disable for uconsole 4G extension
 
+Package: uconsole-dosbox-staging
+Version: 0.1
+Maintainer: cuu<gnubsd@me.com>
+Architecture: arm64
+Depends: libsdl2-2.0-0,libsdl2-image-2.0-0,libsdl2-net-2.0-0,libfluidsynth2,libslirp0,libopusfile0,libspeexdsp1
+Priority: optional
+Section: utils
+Filename: pool/main/u/uconsole-dosbox-staging/uconsole-dosbox-staging_0.1_arm64.deb
+Size: 3208046
+SHA256: 7765834c8c91080b432c0eea6f5c8faa978eb16b3fba2ee8f90e57426b7b6458
+SHA1: 51c33faafde8b61370b52b3ed4b18fbd571f507d
+MD5sum: c449aff939a71c5ca7af70a685badd63
+Description: compiled dosbox-staging for uconsole
+
 Package: uconsole-first-start-a06
 Version: 0.12
 Maintainer: cuu <gnubsd@me.com>
