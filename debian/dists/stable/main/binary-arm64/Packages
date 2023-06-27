@@ -477,17 +477,17 @@ Description: kernel image for uconsole a06
  kernel image for uconsole a06
 
 Package: uconsole-liko12
-Version: 0.2
+Version: 0.21
 Maintainer: cuu<gnubsd@me.com>
 Architecture: arm64
 Depends: libfreetype6, libmodplug1, libopenal1, libgl1-mesa-dev, libsdl2-2.0-0, libsdl2-gfx-1.0-0, libsdl2-mixer-2.0-0, libsdl2-net-2.0-0, libsdl2-ttf-2.0-0,libsdl2-image-2.0-0,libtheora0,libvorbis0a, libmpg123-0,libluajit-5.1-2
 Priority: optional
 Section: utils
-Filename: pool/main/u/uconsole-liko12/uconsole-liko12_0.2_arm64.deb
+Filename: pool/main/u/uconsole-liko12/uconsole-liko12_0.21_arm64.deb
 Size: 21546352
-SHA256: c998b6d8170222749ac631602b293a027ea820a6f755bbf4acb492dff0329e42
-SHA1: 24294e3e95e6a9bbaaca54906e3828cb97ff6a87
-MD5sum: d7b244c5396b34069795179867994511
+SHA256: eaffa2e757874223bdac3b0d5a14d9c5fd305609c7400be910a15f1b32b0fbf8
+SHA1: d65538e4ff2978e5bc03ce21ff9aeafaec01fb13
+MD5sum: f206e76c8bb9ad3daac50076996213c6
 Description: compiled LIKO-12 for uConsole,contains a pre-compiled love2d in /opt 
 
 Package: uconsole-love2d
