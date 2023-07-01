@@ -477,17 +477,17 @@ MD5sum: 8f8faac2ae9f47a2586938032b90d4ee
 Description: uconsole cm4 kernel
 
 Package: uconsole-kernel-current-cpi-a06
-Version: 0.2
+Version: 0.21
 Maintainer: cuu <gnubsd@me.com>
 Architecture: arm64
 Conflicts: linux-dtb-current-rockchip64, linux-image-current-rockchip64, devterm-kernel-current-cpi-a06
 Priority: optional
 Section: utils
-Filename: pool/main/u/uconsole-kernel-current-cpi-a06/uconsole-kernel-current-cpi-a06_0.2_arm64.deb
-Size: 59886152
-SHA256: 2253e72f9b9b2bc519ecfb66b7de19a633aa45c804b3ce58b3de6f69d2edaada
-SHA1: ea449ba6d903bfb4446a163d8951cb31be96e3c7
-MD5sum: 80222c76c4c3a68be44cf6453d71cfbd
+Filename: pool/main/u/uconsole-kernel-current-cpi-a06/uconsole-kernel-current-cpi-a06_0.21_arm64.deb
+Size: 59897600
+SHA256: 4bc435fae2bdecd13bbd701cb138a34085851870180c38895e362f45a1a3a9d0
+SHA1: 2a99356b7e0e715d707efeea653a0a222395bc9c
+MD5sum: f3880ec0f667bb819d252f1e92a1ae1d
 Description: kernel image for uconsole a06
  kernel image for uconsole a06
 
