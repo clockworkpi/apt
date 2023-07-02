@@ -142,18 +142,17 @@ Description: first start tip window based by zenity
  first start tip window based by zenity
 
 Package: devterm-first-start-a06
-Version: 0.22
-Installed-Size: 52
+Version: 0.23
 Maintainer: cuu <gnubsd@me.com>
 Architecture: arm64
 Depends: zenity
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-first-start-a06/devterm-first-start-a06_0.22_arm64.deb
-Size: 14314
-SHA256: b7783dc86a03c950226c0a754cabb115fe042053fb5e8215a07671312939c37b
-SHA1: a074c699da1c8476942defefe6d54bcc1a83860a
-MD5sum: a616ec35b9907e1e914d41179fa4ebc9
+Filename: pool/main/d/devterm-first-start-a06/devterm-first-start-a06_0.23_arm64.deb
+Size: 14956
+SHA256: af8d1b8feabc8f4ec0df8a738835123eae168cc148c8aad1248447f9ffa7f195
+SHA1: a9203778d3b5212524f26e26e71e8116dc6651f2
+MD5sum: c13f413657f3c5647854af0d695ccbc0
 Description: first start tip window based by zenity
  first start tip window based by zenity
 
