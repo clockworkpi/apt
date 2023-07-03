@@ -454,9 +454,9 @@ Priority: optional
 Section: utils
 Filename: pool/main/u/uconsole-first-start-a06/uconsole-first-start-a06_0.15_arm64.deb
 Size: 2736
-SHA256: c3ee8764edc26f133c021fcde1015b18125d726d6245369dc42af1d05ea99449
-SHA1: ca6e670c03292e5e30d486bde2bd3cedae2dac59
-MD5sum: 54562fb7e6f4f0e4236bd2178a273683
+SHA256: 1a03a40fa66bf31815ec7c5b52cb88e423c692d90c784720b43630fc9dff74dd
+SHA1: eeeeefdf64878cc7ae2286da84f5b3bd7c95b676
+MD5sum: 342cd698f06a7d09752859189dfdcb4b
 Description: first start tip window based by zenity
  first start tip window based by zenity
 
