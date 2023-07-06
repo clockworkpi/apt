@@ -445,18 +445,18 @@ MD5sum: db87d6d627755d884d8add5e89c5aaa8
 Description: compiled dosbox-staging for uconsole
 
 Package: uconsole-first-start-a06
-Version: 0.16
+Version: 0.17
 Maintainer: cuu <gnubsd@me.com>
 Architecture: arm64
 Depends: zenity, devterm-gearbox-a06
 Conflicts: devterm-first-start-a06
 Priority: optional
 Section: utils
-Filename: pool/main/u/uconsole-first-start-a06/uconsole-first-start-a06_0.16_arm64.deb
-Size: 2820
-SHA256: 5a8357426d40dece814e32ee16effe621ae1cabc5b319ffe2c8811e9fdc5021a
-SHA1: e482b1c28060003482fe47ab9a10491d59a35d3e
-MD5sum: d64099b526ff87d61b544093205b81c8
+Filename: pool/main/u/uconsole-first-start-a06/uconsole-first-start-a06_0.17_arm64.deb
+Size: 2826
+SHA256: 0e0880406ec484793a27ad29070130fc760baad224004057339c6876a199ad5a
+SHA1: 67c00a838b87a9ce9bd4bcf08f258e166625a283
+MD5sum: bc4b5ca72ff739a37696ec9160f0a436
 Description: first start tip window based by zenity
  first start tip window based by zenity
 
