@@ -173,17 +173,17 @@ Description: devterm-gearbox-a04
  devterm-gearbox-a04
 
 Package: devterm-gearbox-a06
-Version: 0.11
+Version: 0.12
 Maintainer: cuu <gnubsd@me.com>
 Architecture: arm64
 Depends: python3
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-gearbox-a06/devterm-gearbox-a06_0.11_arm64.deb
-Size: 17446
-SHA256: cc5a3a18c97267cfb3b1b391d7cd4ff84a3127f34e6ccf07be098322f012fe0d
-SHA1: e08f24091ae604a54a21b371b015101ed635a704
-MD5sum: 8dae3c32fb745ee2c19327fecbec8258
+Filename: pool/main/d/devterm-gearbox-a06/devterm-gearbox-a06_0.12_arm64.deb
+Size: 17454
+SHA256: 99d69d4fd15881bfedd66886f9dd2c549c3ac717b43acdcce93adc30c3b8ad5a
+SHA1: 611e913f867674f98f142b9c80691fb9c0376bbe
+MD5sum: eef0fd1c6fe3a7352e9f47bd39d46d8c
 Description: devterm-gearbox-a06
  devterm-gearbox-a06
 
