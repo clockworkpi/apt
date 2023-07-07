@@ -504,17 +504,17 @@ MD5sum: 9a9f766539aeeb020aedd5d02daba4f4
 Description: A mod LIKO-12 for uConsole
 
 Package: uconsole-love2d
-Version: 0.1
+Version: 0.11
 Maintainer: cuu<gnubsd@me.com>
 Architecture: arm64
 Depends: libfreetype6, libmodplug1, libopenal1, libgl1-mesa-dev, libsdl2-2.0-0, libsdl2-gfx-1.0-0, libsdl2-mixer-2.0-0, libsdl2-net-2.0-0, libsdl2-ttf-2.0-0,libsdl2-image-2.0-0,libtheora0,libvorbis0a, libmpg123-0,libluajit-5.1-2
 Priority: optional
 Section: utils
-Filename: pool/main/u/uconsole-love2d/uconsole-love2d_0.1_arm64.deb
-Size: 21121204
-SHA256: ebaf99575bc185cf322ffb3038a942d1c0dd3ff6559a18d425a9f38fe50cc02a
-SHA1: c8716ccd1f83d1becedeabd69f1ea7409358dc67
-MD5sum: ea4b087e7395289c0e2e02fb9786c52a
+Filename: pool/main/u/uconsole-love2d/uconsole-love2d_0.11_arm64.deb
+Size: 21121200
+SHA256: 7fbd62f4bb20662f53c5ab07bb55b92618d41ef02e353abf4601a8d650aa9dbd
+SHA1: 62b1ea0ccd79889efdec418a32a38df3a9c1ed46
+MD5sum: 22952ab4fcbf701b19d98481f08f2c71
 Description: compiled love2d for uConsole
 
 Package: uconsole-lowresnx
