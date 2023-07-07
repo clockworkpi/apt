@@ -338,17 +338,17 @@ Description: devterm thermal printer cups filter and config
  add a devterm_printer in CUPS
 
 Package: devterm-tic80-cpi
-Version: 0.21
+Version: 0.22
 Maintainer: cuu <gnubsd@me.com>
 Architecture: arm64
 Depends: libglu1-mesa, freeglut3, libglvnd0, libasound2
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-tic80-cpi/devterm-tic80-cpi_0.21_arm64.deb
-Size: 4092024
-SHA256: 4c56c598914b5ba1b24475f2fabc252ac8de2f4db39bd5355bea55044829dd55
-SHA1: c5ffb234170842bfe5b248176df40f3631bf31c4
-MD5sum: 07990d90d52c5625eb6146581b44cb30
+Filename: pool/main/d/devterm-tic80-cpi/devterm-tic80-cpi_0.22_arm64.deb
+Size: 4092026
+SHA256: ff260b9821101c006b6c004434063562366fbbf9edfcec87112ba20c50ae0f37
+SHA1: 94c68b1bc0857379dd7360700ede6f450fb975af
+MD5sum: 0017b358781cd537c8d6542186ae0dcf
 Description: tic80 for arm64 of devterm/uconsole
  tic80 cpi build for arm64 of devterm/uconsole
 
