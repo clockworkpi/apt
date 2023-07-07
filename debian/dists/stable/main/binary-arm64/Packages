@@ -518,16 +518,16 @@ MD5sum: 22952ab4fcbf701b19d98481f08f2c71
 Description: compiled love2d for uConsole
 
 Package: uconsole-lowresnx
-Version: 0.11
+Version: 0.12
 Maintainer: cuu <gnubsd@me.com>
 Architecture: arm64
 Depends: libsdl2-image-2.0-0,libsdl2-mixer-2.0-0,libsdl2-net-2.0-0,libsdl2-ttf-2.0-0,libsdl2-2.0-0,libsdl2-gfx-1.0-0
 Priority: optional
 Section: utils
-Filename: pool/main/u/uconsole-lowresnx/uconsole-lowresnx_0.11_arm64.deb
-Size: 105714
-SHA256: 77869c2cb5553b636d413633722ae2f24f286f0ff7e4d7b7847303f2d6dc5b94
-SHA1: a272e80e5f8d9b98a843c749072833a1b50b2690
-MD5sum: 70d2e8a908e6088bf74fc5547c0ebbc8
+Filename: pool/main/u/uconsole-lowresnx/uconsole-lowresnx_0.12_arm64.deb
+Size: 105702
+SHA256: 5e219cce461326e7f01b7904a973abd9ebcc873406718f82c76561f089d05fda
+SHA1: 92c821ff6465419f4b10dd66e189d3b25cdf855d
+MD5sum: e8f2f0a7f7287777f9012e8b62acdf52
 Description: LowRes NX for uConsole
 
