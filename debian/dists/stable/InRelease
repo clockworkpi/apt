@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: clockworkpi.github.io/apt
 Label: clockworkpi.github.io/apt/
 Codename: stable
-Date: Sun, 16 Jul 2023 06:58:20 UTC
+Date: Thu, 31 Aug 2023 06:44:30 UTC
 Architectures: armhf arm64 riscv64
 Components: main old
 Description: cpi repository
@@ -15,8 +15,8 @@ MD5Sum:
  f0e9462efc72bd5bd020bc4d783f0ce4 18411 main/binary-arm64/Packages
  416242ca6d018308c960ffe1ec93f6c2 5310 main/binary-arm64/Packages.gz
  e1a701d89fa7c0df95243911d1580d6d 132 main/binary-arm64/Release
- e4da0a09dae8fbfc60b8b95eaeb23675 5578 main/binary-riscv64/Packages
- 5f629257762af87aa66e46475bab2946 1987 main/binary-riscv64/Packages.gz
+ a1ef9cd2c3201603b5b783494be23bd2 5578 main/binary-riscv64/Packages
+ 9d0349971f8991445b5098728ef277fc 1988 main/binary-riscv64/Packages.gz
  28565096d270a9c66e0ce4b7d324c45d 134 main/binary-riscv64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 old/binary-armhf/Packages
  7029066c27ac6f5ef18d660d5741979a 20 old/binary-armhf/Packages.gz
@@ -34,8 +34,8 @@ SHA1:
  a40b80b1e84d694787660564d5fb4bac1d4abc2e 18411 main/binary-arm64/Packages
  6593c8881717a1cdede6ea05cc343be9bca49d3e 5310 main/binary-arm64/Packages.gz
  93043cb202ad6c014b45b1d6565687c45ff6914f 132 main/binary-arm64/Release
- 325131dc5e60b844a1668845156a06bf8fd11b06 5578 main/binary-riscv64/Packages
- 8dcc8c7c505ae347e7ccb39d0926ffbcc4898c43 1987 main/binary-riscv64/Packages.gz
+ 205653bdda00fd8fe3723977071e8f35bd2eee5b 5578 main/binary-riscv64/Packages
+ efc8487146d3311a9f894649f063f04cfb31018f 1988 main/binary-riscv64/Packages.gz
  23071a3d0396bcc992bd3fa2e52659ccda836c8c 134 main/binary-riscv64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 old/binary-armhf/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 old/binary-armhf/Packages.gz
@@ -53,8 +53,8 @@ SHA256:
  c1ea29bd095b497ce69c2527fcba70a886bed0c4564389ed75cb6cc67946ae9a 18411 main/binary-arm64/Packages
  9a5caf8af70e50bcca98772a8538acc6334f1f1ba01c62851e94b77369e7081d 5310 main/binary-arm64/Packages.gz
  ae10a9686b2ca7c38f4cca90d8d3ed3d1de57d0da063f41e8179ddec2f46ad66 132 main/binary-arm64/Release
- 7b1bcc12c99ca22ebcea4b8f46e11ec1405a3989254235f573dece79d50d1d03 5578 main/binary-riscv64/Packages
- 1c28bff6cb44573336f549c75a3d3808553062a0f9a729b8e6578daa4f30f587 1987 main/binary-riscv64/Packages.gz
+ 05defbe78b03360ea409f07e2d756e823ddec2263bf89c85cccae2ba720e1f15 5578 main/binary-riscv64/Packages
+ df10d9a39915d0dcbbd8093b40e17811a091ef7ae9c4a7a2f740439fa5783a58 1988 main/binary-riscv64/Packages.gz
  fefecba1cf77701d98fde1ffce527048d836b4fd021f63ed4acfae18024040de 134 main/binary-riscv64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 old/binary-armhf/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 old/binary-armhf/Packages.gz
@@ -67,18 +67,18 @@ SHA256:
  81da36aedd94b3b813a92adc43f84f4dec38bc13fd459782346bf6aaee291b9d 133 old/binary-riscv64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQJCBAEBCgAsFiEEHycG0/5wXwcqwu+uSTMGCgDnEmkFAmSzlQwOHGdudWJzZEBt
-ZS5jb20ACgkQSTMGCgDnEmmOkxAAgilhnHGnsKLYVeB+E47XKlxuPYyWxuKcFTU1
-NW3Q6ZCI7M38fmVZYAwLk9MO7i3fRxZn8nrZ51/TYvTxBYtBSMPSXCsEKuULOL/z
-EKrvdmWSLlWQYznatuvjGSYFOUhq1mDU0Ee8x4wvdf6oQXOVaobfgdxzWFukNgvC
-Z030vnh4DDccXaJUOY1ZXZRaGWJXPPh8Kb+RKwMFKsA+05XGFqaafqiC4CLy1jiD
-2CPUmaomBrnOCIzOLJlVYjqrztuFsKsraIsGc/PCcDbZ87iNEvNIEE3I2pwx1Zmo
-uWveIFIab0RUKX4HHpOIzs9VdyLENw6Nzus9z1X0jAuAlbiTF6x0FLwBEQl+tPc9
-3FYN7pyLQ5aFV2VKUgCEMggnGOjLsHMpJCX4Ue1ymEUj5zizbW9FTGJJgpB5pyVV
-3wUmlTf6Yy9649KqKq0ZTOnO2tRAxCNIeBj38MvpcoOgva23zoxzWg+OGu2pClKO
-rxGNpZyzOKtBSqEzcBsChe230F02sxAUTiP9jM+RiTtys6iVJvF6SVPe6k6VlgpV
-kI/51ql7B+Gh6+ynfx0MEycn9vllF0K+HDRbo9L65ubTB2mZMMsLALxuFLewFoCV
-bTnBCK35Kb2o7BNdLPYMPefCUN+iU/ZwKisUPEuqYQ5ZI4g0uQq27DmBzUFpMH14
-Vrrnflk=
-=BEyf
+iQJCBAEBCgAsFiEEHycG0/5wXwcqwu+uSTMGCgDnEmkFAmTwNs4OHGdudWJzZEBt
+ZS5jb20ACgkQSTMGCgDnEml4xRAArgLrsyF9TkmtbTqFDVNLplAC1bzHdTi1RQNB
+UbyKwNN4z8AWlu8vo5d57jX4X/waUTLdCEZl2Zs+19W3U7V445V9dpKV6U7Y/jBo
+9SEGbWzYwNBkDk9biaU5qr2dMOpmTqigMZolUXcx/PntEonwc61wFcpqlQ2Z/sUs
+8aVgK/YZWrie11EO2GdqhXJ2suI/dc/FSxAnVUQpjUDQ/4W5/skg1Bka2ynURQIO
+rgY/IFucHehJCq2UChy14J7LHvAtiOywIVuQPHE+fdH2LEKIVFV1wlONbb+0egHD
+9pdwFdOsxxKkr8rqY/tbiF7cOF2hBB4uI10LJlZRajmMXrGLW0W1jT3BzbdmY8vi
+dWBon/vRKrDWEHchACRnk/rRHTvOLUBAmqbQCvBYmXkVb6trTdPzv3PrQdxbFeIy
+Wf7949I8CGCziXimUIsmuzCw3N6+9qQ4TqZzhwPRqbccx0he3XahV9TVgrqhdZqd
+vRcI/K/WcYmxUJTIEmewwKfpZ5L9VfSBRcsvxdXfhUDFGvbvU98nZJdbv31EkExK
+G7SRQSM+zCyoyIiDjboiw66+Y+540UOhmtpdgzUtl/PPNp1e8W0YyycmMk32MPXl
+tvII8AB9eWegGIC4p00pMs/lovxGyZBxF0OpyOZwa61Pcy3qhGUQxViSHwV3et4y
+pxiHOJs=
+=h735
 -----END PGP SIGNATURE-----
