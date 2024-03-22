@@ -400,6 +400,20 @@ MD5sum: 7fc072d3cda294a762e8b58fc151aa17
 Description: devterm-wiringpi-cpi-a04
  devterm-wiringpi-cpi-a04  for a04
 
+Package: retroarch-cpi-cm4
+Version: 0.1
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Conflicts: retroarch
+Priority: optional
+Section: utils
+Filename: pool/main/r/retroarch-cpi-cm4/retroarch-cpi-cm4_0.1_arm64.deb
+Size: 5937466
+SHA256: b12f7d53f83255f75bb0ad01c2adc58cc06d1689495025ce6d760121a8a54f53
+SHA1: efe10172e9e243861f348fb1a940ad48600a7b88
+MD5sum: d8b986c9ecb0a35d067bf7ffb0caa740
+Description: retroarch cpi compiled for cm4
+
 Package: uconsole-4g-util
 Version: 0.1
 Maintainer: cuu<gnubsd@me.com>
