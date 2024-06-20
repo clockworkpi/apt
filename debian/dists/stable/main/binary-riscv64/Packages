@@ -29,6 +29,20 @@ MD5sum: 8308007a5049c5d8a5ca3180d1c840b9
 Description: control devterm d1 backlight by fn + <>
  control devterm d1 backlight by fn + <>
 
+Package: devterm-fan-daemon-r01
+Version: 0.1
+Maintainer: cuu <gnubsd@me.com>
+Homepage: https://github.com/clockworkpi
+Architecture: riscv64
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-fan-daemon-r01/devterm-fan-daemon-r01_0.1_riscv64.deb
+Size: 2700
+SHA256: 343d45d799017edc471119be234a8a27a5c5decf54aa6a5920b2a5285f947eb3
+SHA1: bc8fc8dda9387dbe6144d883d6ea813b2f1cb622
+MD5sum: 0e0e04e05de3f83c27908410a333ee6d
+Description: devterm fan daemon for devterm d1(R01)
+
 Package: devterm-fan-temp-daemon-rpi
 Version: 0.12
 Installed-Size: 52
