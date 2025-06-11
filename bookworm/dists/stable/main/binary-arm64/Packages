@@ -1,0 +1,14 @@
+Package: uconsole-kernel-cm4-rpi
+Version: 6.12.32-v8+
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Conflicts: raspberrypi-kernel, devterm-kernel-rpi,devterm-kernel-cm4-rpi
+Priority: optional
+Section: utils
+Filename: pool/main/u/uconsole-kernel-cm4-rpi/uconsole-kernel-cm4-rpi_6.12.32-v8+_arm64.deb
+Size: 44691270
+SHA256: 6f9077075c426f99755040f3ee35e711eb8d8db414b8c1337765fd4fb84dc3b1
+SHA1: e54135ddfa323f010bbd1b85f60da0f98f56e385
+MD5sum: 71f4d9f675e42ba5fe3a0a163283a574
+Description: uConsole cm4 kernel
+
