@@ -1,3 +1,18 @@
+Package: devterm-fan-temp-daemon-cm4
+Version: 0.2
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Depends: python3
+Replaces: devterm-fan-temp-daemon-rpi
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-fan-temp-daemon-cm4/devterm-fan-temp-daemon-cm4_0.2_arm64.deb
+Size: 14854
+SHA256: a016ffa0cce09a9e87776fc5b9675faf0740aead362d7a48fdb09b74b4ea845c
+SHA1: d3afada37db753c20748ce7b0316e33c1a18e082
+MD5sum: bf3f30c5027a6b298e1261637f368498
+Description: devterm/uConsole fan control script for raspberry pi cm4
+
 Package: uconsole-kernel-cm4-rpi
 Version: 6.12.32-v8+
 Maintainer: cuu <gnubsd@me.com>
