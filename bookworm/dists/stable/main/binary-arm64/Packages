@@ -13,6 +13,36 @@ SHA1: d3afada37db753c20748ce7b0316e33c1a18e082
 MD5sum: bf3f30c5027a6b298e1261637f368498
 Description: devterm/uConsole fan control script for raspberry pi cm4
 
+Package: devterm-wiringpi-cm4-cpi
+Version: 0.1
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Conflicts: wiringpi
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-wiringpi-cm4-cpi/devterm-wiringpi-cm4-cpi_0.1_arm64.deb
+Size: 75566
+SHA256: e36b51fc67755c18b64af0d25f0cba6e5a7600c0d0304926bab1e9eccb6411f1
+SHA1: 2738c71e1f35db1b9c6df3735e3502889617da6d
+MD5sum: 5095984a592b07ab807d26cac99c8f0b
+Description: devterm-wiringpi-cm4-cpi
+ devterm-wiringpi-cm4-cpi
+
+Package: uconsole-4g-util-cm4
+Version: 0.1
+Maintainer: cuu<gnubsd@me.com>
+Architecture: arm64
+Conflicts:
+Depends: devterm-wiringpi-cm4-cpi 
+Priority: optional
+Section: utils
+Filename: pool/main/u/uconsole-4g-util-cm4/uconsole-4g-util-cm4_0.1_arm64.deb
+Size: 2338
+SHA256: c2adb1bf69b5ecb57705ab9e48e42c0020d92a93ea8d0f6392380c45dbde4710
+SHA1: 4e3a573b048727ee1a78e07c6f5797cf5203d108
+MD5sum: 88b169961f876cdb15786a588f1fa29f
+Description: utils for enable/disable for uconsole 4G extension
+
 Package: uconsole-kernel-cm4-rpi
 Version: 6.12.32-v8+
 Maintainer: cuu <gnubsd@me.com>
