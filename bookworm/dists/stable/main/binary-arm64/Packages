@@ -1,3 +1,19 @@
+Package: clockworkpi-cm-firmware
+Version: 0.1
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Provides: raspi-firmware
+Conflicts: raspi-firmware
+Replaces: raspi-firmware
+Priority: required
+Section: utils
+Filename: pool/main/c/clockworkpi-cm-firmware/clockworkpi-cm-firmware_0.1_arm64.deb
+Size: 12838260
+SHA256: a73a60899600e16e1de9443d14dc15871434673f4345cc7f96bc586e351d5f8e
+SHA1: 0758963e141408a0a0b5d6552ec4d82f2b218648
+MD5sum: 283c7d243f4594239adc0b5dacafcf8e
+Description: RaspberryPi firmware files.
+
 Package: devterm-wiringpi-cm4-cpi
 Version: 0.1
 Maintainer: cuu <gnubsd@me.com>
