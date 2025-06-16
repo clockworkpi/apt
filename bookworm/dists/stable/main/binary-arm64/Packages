@@ -46,6 +46,21 @@ MD5sum: 15073d80fecad5eb6d10a4db1d6d9ae8
 Description: control cm4 backlight by fn + <>
  control cm4 backlight by fn + <>
 
+Package: devterm-cavestory-cpi-cm4
+Version: 0.14
+Maintainer: cuu<gnubsd@me.com>
+Architecture: arm64
+Depends: libsdl2-2.0-0, libsdl2-gfx-1.0-0, libsdl2-image-2.0-0, libsdl2-mixer-2.0-0, libsdl2-net-2.0-0, libsdl2-ttf-2.0-0
+Conflicts: devterm-cavestory-cpi
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-cavestory-cpi-cm4/devterm-cavestory-cpi-cm4_0.14_arm64.deb
+Size: 1580882
+SHA256: 820a469d6efc2060c8f939b5666f244f93fee3e9ff6257cd8d6d8e9cc9a15fbe
+SHA1: a8cbf133867794bb1d3c5658dc1c13932b608023
+MD5sum: acc0ff2986b22331156a66379b87aa81
+Description: devterm-cavestory-cpi-cm4 for cm4
+
 Package: devterm-wiringpi-cm4-cpi
 Version: 0.1
 Maintainer: cuu <gnubsd@me.com>
