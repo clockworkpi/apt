@@ -14,6 +14,22 @@ SHA1: 0758963e141408a0a0b5d6552ec4d82f2b218648
 MD5sum: 283c7d243f4594239adc0b5dacafcf8e
 Description: RaspberryPi firmware files.
 
+Package: devterm-backlight-rpi-cm4
+Version: 0.1
+Maintainer: cuu <gnubsd@me.com>
+Homepage: https://github.com/cuu/rpi-backlight
+Architecture: arm64
+Depends: xbindkeys
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-backlight-rpi-cm4/devterm-backlight-rpi-cm4_0.1_arm64.deb
+Size: 7302
+SHA256: 11508f35b67e2660c2d45b7040cd1775bf72053467f97ca27fca2dc5fd2abc9b
+SHA1: 31efec37e9f77a0484823d1568360bd9d5d8ca83
+MD5sum: 15073d80fecad5eb6d10a4db1d6d9ae8
+Description: control cm4 backlight by fn + <>
+ control cm4 backlight by fn + <>
+
 Package: devterm-wiringpi-cm4-cpi
 Version: 0.1
 Maintainer: cuu <gnubsd@me.com>
