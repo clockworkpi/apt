@@ -61,6 +61,21 @@ SHA1: a8cbf133867794bb1d3c5658dc1c13932b608023
 MD5sum: acc0ff2986b22331156a66379b87aa81
 Description: devterm-cavestory-cpi-cm4 for cm4
 
+Package: devterm-tic80-cpi
+Version: 0.23
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Depends: libglu1-mesa,  libglvnd0, libasound2
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-tic80-cpi/devterm-tic80-cpi_0.23_arm64.deb
+Size: 4092010
+SHA256: 54fbda14d53394484d7f43bc87a42ced038c5f8afa0dbb6bb677031ef7251a67
+SHA1: b9f4bc245970fca5d13669269530d9354239afd6
+MD5sum: f910a9a3c4cdcbb9d3e1ce124ced362c
+Description: tic80 for arm64 of devterm/uconsole
+ tic80 cpi build for arm64 of devterm/uconsole
+
 Package: devterm-wiringpi-cm4-cpi
 Version: 0.1
 Maintainer: cuu <gnubsd@me.com>
