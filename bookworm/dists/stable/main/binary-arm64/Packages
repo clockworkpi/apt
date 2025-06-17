@@ -134,6 +134,20 @@ SHA1: 562b9a353e0b01565b6155e044fd2e41b81426ef
 MD5sum: 2b5454c1daf6b6dffb61f7779ffd8c45
 Description: uConsole cm4 kernel
 
+Package: uconsole-liko12
+Version: 0.24
+Maintainer: cuu<gnubsd@me.com>
+Architecture: arm64
+Depends: libfreetype6, libmodplug1, libopenal1, libgl1-mesa-dev, libsdl2-2.0-0, libsdl2-gfx-1.0-0, libsdl2-mixer-2.0-0, libsdl2-net-2.0-0, libsdl2-ttf-2.0-0,libsdl2-image-2.0-0,libtheora0,libvorbis0a, libmpg123-0,libluajit-5.1-2, uconsole-love2d
+Priority: optional
+Section: utils
+Filename: pool/main/u/uconsole-liko12/uconsole-liko12_0.24_arm64.deb
+Size: 476710
+SHA256: 591e4f715cdc7380e8bb5caaa2583e54b406710a013ae668b6b4cbc4e22e61ff
+SHA1: 904b4ac2ad8c890c2b4a020f58561eb1e283512c
+MD5sum: 3f1d31f164f8195f11ddc84a938e87ca
+Description: A mod LIKO-12 for uConsole
+
 Package: uconsole-love2d
 Version: 0.11
 Maintainer: cuu<gnubsd@me.com>
@@ -147,4 +161,18 @@ SHA256: 40ae4917d45ac59fd0b5613cecf1094a9c53b50ca8da0698d80da35b204d03d7
 SHA1: 2db6df6f17adb878a4c055a28342d7a14980326f
 MD5sum: 54fe66ea6fd5c1f4fdf805facb64c232
 Description: compiled love2d for uConsole
+
+Package: uconsole-lowresnx
+Version: 0.12
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Depends: libsdl2-image-2.0-0,libsdl2-mixer-2.0-0,libsdl2-net-2.0-0,libsdl2-ttf-2.0-0,libsdl2-2.0-0,libsdl2-gfx-1.0-0
+Priority: optional
+Section: utils
+Filename: pool/main/u/uconsole-lowresnx/uconsole-lowresnx_0.12_arm64.deb
+Size: 105702
+SHA256: abdfc0fb7f672889070a8973e0d450f2796ed24c71a37c401bc1b9d7440885ea
+SHA1: 5416c9396e7fab2e97f174a103b988783480ee7e
+MD5sum: 8db4143631b5572b4f35074c28985a4e
+Description: LowRes NX for uConsole
 
