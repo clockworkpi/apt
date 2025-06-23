@@ -1,7 +1,7 @@
 Origin: clockworkpi.github.io/apt
 Label: clockworkpi.github.io/apt/
 Codename: stable
-Date: Tue, 17 Jun 2025 10:57:08 UTC
+Date: Mon, 23 Jun 2025 07:55:44 UTC
 Architectures: armhf arm64 riscv64
 Components: main
 Description: clockworkpi bookworm repository
@@ -9,8 +9,8 @@ MD5Sum:
  1decbe9194b160042ef94b9080565970 577 main/binary-armhf/Packages
  2b06fce52a834af61720d3fb198506e6 380 main/binary-armhf/Packages.gz
  9eaa81a2afd0c01985028fa1d1bdb341 149 main/binary-armhf/Release
- 749056f145cfad2dfe34fada597dd542 6762 main/binary-arm64/Packages
- d66ef699545b7151a143f1f39be37090 2282 main/binary-arm64/Packages.gz
+ f5c6e90e9e314750d597ec177d7916b0 6762 main/binary-arm64/Packages
+ c8c225d2b230789a4c1ad903846258a4 2286 main/binary-arm64/Packages.gz
  0cac6fba0e152bb400b22f96309e3d0c 149 main/binary-arm64/Release
  1decbe9194b160042ef94b9080565970 577 main/binary-riscv64/Packages
  2b06fce52a834af61720d3fb198506e6 380 main/binary-riscv64/Packages.gz
@@ -19,8 +19,8 @@ SHA1:
  d44c2896986fe5dcb37f2c894209f6b644a42443 577 main/binary-armhf/Packages
  8f89b8d7e2178c4f875b2d4cee616a60b84d1d7c 380 main/binary-armhf/Packages.gz
  1dc6f89eea5d20d34f71125d9666aa0017523b9b 149 main/binary-armhf/Release
- 091c2953d485b50c6033f483b6da33bed631aed8 6762 main/binary-arm64/Packages
- 69614567e5eb7801ffa97bf009f7050e9e6cb37d 2282 main/binary-arm64/Packages.gz
+ 80665936b18de8b50deb47fefd4b75089e7a4ad6 6762 main/binary-arm64/Packages
+ 2e12ae6a7044fa87b685da78ee1a2aaabc8377cc 2286 main/binary-arm64/Packages.gz
  96a75ffed526bf846c004dfbca35eb92191909d5 149 main/binary-arm64/Release
  d44c2896986fe5dcb37f2c894209f6b644a42443 577 main/binary-riscv64/Packages
  8f89b8d7e2178c4f875b2d4cee616a60b84d1d7c 380 main/binary-riscv64/Packages.gz
@@ -29,8 +29,8 @@ SHA256:
  1d461fcbb42b85e57b2279c223c11d822563c2fa800474ee314cc8976f44dfd6 577 main/binary-armhf/Packages
  26b059329c58d486c2005ee67f019ec39364a99d253098953318b3e3f7315420 380 main/binary-armhf/Packages.gz
  10c990693c688800c1abb864532fbec704fddabbc257f6addb3aba33f29ae8a2 149 main/binary-armhf/Release
- 8295302b18fef9fbe4a7a9c7ce14b7c17271d46cef3247de6930f7eb0f1aa222 6762 main/binary-arm64/Packages
- a5fef8341596bbeb27d23c3e834d3e50b4b40a0f2084c7aa1989ca351acd5e2c 2282 main/binary-arm64/Packages.gz
+ 1a2350165e90233c6512fc134aff1ada34e7049da9e5073306574097e30b6bc6 6762 main/binary-arm64/Packages
+ 151d5057559692787db50100bb2e5355a6a8b30635d6e2f4eade3196e5673aee 2286 main/binary-arm64/Packages.gz
  b2f375674ad4a346beedce6f3c5550e4a747d752b30c91d64537b87ea7a46ac4 149 main/binary-arm64/Release
  1d461fcbb42b85e57b2279c223c11d822563c2fa800474ee314cc8976f44dfd6 577 main/binary-riscv64/Packages
  26b059329c58d486c2005ee67f019ec39364a99d253098953318b3e3f7315420 380 main/binary-riscv64/Packages.gz
