@@ -1,0 +1,6 @@
+Origin: clockworkpi.github.io/apt
+Label: clockworkpi.github.io/apt/
+Codename: stable
+Architectures: armhf arm64 riscv64
+Components: main
+Description: clockworkpi bulleye repository

@@ -1,0 +1,37 @@
+Origin: clockworkpi.github.io/apt
+Label: clockworkpi.github.io/apt/
+Codename: stable
+Date: Wed, 16 Jul 2025 06:26:41 UTC
+Architectures: armhf arm64 riscv64
+Components: main
+Description: clockworkpi bulleye repository
+MD5Sum:
+ e09fbb60da4e5e620656541122e93913 504 main/binary-armhf/Packages
+ 1cbc8c74e75911bc8192b8b42e4f1fe1 349 main/binary-armhf/Packages.gz
+ 21b5927cf97bb189688973b3e38c48a1 148 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ 018571d32925320c30ee790019c23771 148 main/binary-arm64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-riscv64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-riscv64/Packages.gz
+ 3f195a61187a4393c68eb479a0473ea5 150 main/binary-riscv64/Release
+SHA1:
+ 12db7c3a5fff5cab5f8af07b77b5726a186a9ee6 504 main/binary-armhf/Packages
+ 4a11ae189e14dde72336421d4c31a3e1da6dcd03 349 main/binary-armhf/Packages.gz
+ a03e26ac04564817de32943fa8e472a4736d1484 148 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ 734efbaa1b80e7866d6f6176e51872bf8f3973da 148 main/binary-arm64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-riscv64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-riscv64/Packages.gz
+ b54a389003e3967c0725c2006ea44cd12f5049e8 150 main/binary-riscv64/Release
+SHA256:
+ 1c0715afaf7bc26b8133810c7d4badd52274a333fcb19b659652ad51ca313409 504 main/binary-armhf/Packages
+ c0b563c84d0a97e2491d2e5fbc5c58471fa3a257e10333ff9fa8335d4f2fb468 349 main/binary-armhf/Packages.gz
+ 9369065c9c0f7940c2f1bccbb0953b5f932e3ee15e66fa5c46c0f5dce45b8451 148 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ 7aee2470435f164205db28317811c3841252c71e00cedc0edd5d0e1fb023338b 148 main/binary-arm64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-riscv64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-riscv64/Packages.gz
+ 56dc0300871726fa7f74a18fb986bbf4ff46d819736bdb5c074b03e8ff6a3e7a 150 main/binary-riscv64/Release

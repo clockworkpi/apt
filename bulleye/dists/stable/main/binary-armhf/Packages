@@ -1,0 +1,15 @@
+Package: picocalc-kernel-zero-2w
+Version: 6.1.93-v7+
+Maintainer: cuu <gnubsd@me.com>
+Architecture: armhf
+Conflicts: raspberrypi-kernel
+Replaces: raspberrypi-kernel
+Priority: optional
+Section: utils
+Filename: pool/main/p/picocalc-kernel-zero-2w/picocalc-kernel-zero-2w_6.1.93-v7+_armhf.deb
+Size: 27152796
+SHA256: 4c22fc27fb7b2b3e9754ed9a861bf6d07f49449dda6ae64a7cbb5dda313d1bcf
+SHA1: 706e6300d566d9a0d9b5d815613f2aca44560ade
+MD5sum: 6e9bb54f56796c7627b5c40395462738
+Description: PicoCalc zero 2w  kernel
+
