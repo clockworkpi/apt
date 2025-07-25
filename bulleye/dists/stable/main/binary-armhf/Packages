@@ -27,3 +27,17 @@ SHA1: 161f446e8df8975e5df44ddceff20670e7f6745e
 MD5sum: e972cb5b17ec5c3cdefee16b7971f72e
 Description: PicoCalc zero 2w  kernel
 
+Package: picocalc-pinctrl
+Version: 0.1
+Maintainer: cuu<gnubsd@me.com>
+Architecture: armhf
+Conflicts:
+Priority: optional
+Section: utils
+Filename: pool/main/p/picocalc-pinctrl/picocalc-pinctrl_0.1_armhf.deb
+Size: 56096
+SHA256: 7a9c18bcd833c8c6e280d56bfc3d0911bc244703dc3cb0533e53fa67867b1878
+SHA1: 59eb909d4e95c16af50b8fa42c18f2bf68f5f87c
+MD5sum: 41a534526545a13017c0423b7c817988
+Description: picocalc zero 2w pinctrl util
+
