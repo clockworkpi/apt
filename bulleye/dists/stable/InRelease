@@ -4,13 +4,13 @@ Hash: SHA512
 Origin: clockworkpi.github.io/apt
 Label: clockworkpi.github.io/apt/
 Codename: stable
-Date: Wed, 06 Aug 2025 08:26:12 UTC
+Date: Wed, 06 Aug 2025 08:30:27 UTC
 Architectures: armhf arm64 riscv64
 Components: main
 Description: clockworkpi bulleye repository
 MD5Sum:
- 2c00e5a2b7ea97ca48013346deaa683e 1346 main/binary-armhf/Packages
- f6ab37bfc649a1b19f493ca3852c915e 605 main/binary-armhf/Packages.gz
+ afbd595abdc851585c098248dff32e3b 1346 main/binary-armhf/Packages
+ 943c4b664b5925cd8e2d006c348a74e9 604 main/binary-armhf/Packages.gz
  21b5927cf97bb189688973b3e38c48a1 148 main/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
@@ -19,8 +19,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-riscv64/Packages.gz
  3f195a61187a4393c68eb479a0473ea5 150 main/binary-riscv64/Release
 SHA1:
- f1e6ba31390e0057a4f4b7dbccb44ec514682759 1346 main/binary-armhf/Packages
- 34f88048732675daeacc2369108ffcfc8e4da530 605 main/binary-armhf/Packages.gz
+ eb8d5de4165504218aff4cf51a0629a78bb0548d 1346 main/binary-armhf/Packages
+ 8c6168b50bc5845ffaca8940b9fced21d1ba7fff 604 main/binary-armhf/Packages.gz
  a03e26ac04564817de32943fa8e472a4736d1484 148 main/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
@@ -29,8 +29,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-riscv64/Packages.gz
  b54a389003e3967c0725c2006ea44cd12f5049e8 150 main/binary-riscv64/Release
 SHA256:
- c7f65add9840c4944636b1b06f4a06f7937fb176a5adcb209c814b57e89e6710 1346 main/binary-armhf/Packages
- 20a7ecc064b63fd2ac93580f7e98485466fffa7c3d5b38e602bcd86c1aab049d 605 main/binary-armhf/Packages.gz
+ 8da9decd412fc2db1bfec4c2979f460e862a78d3a5236eaa71ed77edaf779469 1346 main/binary-armhf/Packages
+ 16792fda1dab306c11798eb5da7257fa73ec63a51a0c095bc7c729f6f7eba1f4 604 main/binary-armhf/Packages.gz
  9369065c9c0f7940c2f1bccbb0953b5f932e3ee15e66fa5c46c0f5dce45b8451 148 main/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
@@ -40,18 +40,18 @@ SHA256:
  56dc0300871726fa7f74a18fb986bbf4ff46d819736bdb5c074b03e8ff6a3e7a 150 main/binary-riscv64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQJCBAEBCgAsFiEEHycG0/5wXwcqwu+uSTMGCgDnEmkFAmiTEaQOHGdudWJzZEBt
-ZS5jb20ACgkQSTMGCgDnEmmGKg/+KdnIDpMucqpwRFkchkQ7mNRSozudtFIRSl3x
-wxsPMi2oV4zZp55ZA1zS9yxj+0tTS4G+TyqizEfes4qARYuL9zlP6aQnYD2cISoK
-ScEPPK95b6fQkVHbuLgC89anGhnx19DnW7JjvzZEtKJTvCBlvQ4a064+BbNe/0BC
-D7UhaHFsp+nkBppzCR1GPL622vNicXm/1ryQYxbIwZqriNbKZBTJ0Qh1vNVH/MwX
-g4MfZooiXZzDHX2E5ltxh00Ly8OPXr10HSn8mTTmin72rRN1nrzfrIqVo1tnu/bg
-aCB0GPD2DvDaU2cmsA7+4c8vfCZBXAUnLCQobDlsHBsco17f91wT45oT9uKVYfNJ
-kYTzu1Sq3Bt9+IGBKjUStDmqbPOMNKiXILaySesl5wCZJypsk4JOIz25LSA8m0vo
-951Biy4IxopDvMficX4Axc+j6VFcwWAkZqYJUESknoKqsvUHsB/u0cGxlkPoypZw
-d7WQutyPCAzjx4TfjEuu4RkzTUHvxJH9eMxOe2TuFp3zGCC+/XsT+eFR8qFDevsn
-91Q96n/AtRp3o8mUVFnQy2+HGPvS2OPTRww7Lc1STUUxU+Gpfz/x1zbdRLOEfhCH
-gTuFFP9t9rFOMYe5ZalyogS2Tvdp5WpC7HGmTWRuAZLON3hvhF1uEA0CcxslDTNC
-BDd3ZPE=
-=r03k
+iQJCBAEBCgAsFiEEHycG0/5wXwcqwu+uSTMGCgDnEmkFAmiTEqMOHGdudWJzZEBt
+ZS5jb20ACgkQSTMGCgDnEmk/BxAAiP7M7mOCQbJ0Frr+dUN6mjNmMdQQruZnsRQI
+5q1ZrSTwE3LAj3odAJr3tye6J9ob569/+Iu2PO6/oKOmHSVG9Ld7A8OeazY5tJCv
+4gRz5l87yOwawAfxum3FjCalafAbVcoUGsJvdCyM79tZ9RM18x8sWirPWa502tlt
+OkdtJ7nLpKyZ44t8l4m3jHhhRnJy+XO5mc/pjxa5v38aZKMJLL4SZu7QlX2mTyxR
+F7yBIVy8corEhrO5pW2dJqdwrWKQD6zrgrQ/kA7XZ5TZQwquHat9lexIz6IFthWv
+9S1413GzF6A0E2pbryIvBfqF0HymzDyY/FUQ0hVGh7Si5KECWUyMpNxsTGTfjP4N
+uU4+/vHx5SD9Gxk7IfEYKEKk3U2Kww5GvWfxWkwTELVFOrPTVzaFZmKsa/CjdhJu
+PlSJx3Tk9d6oozqDY08xaP8W1uHmmuOaEaJpDrP6sbF8fp7MpbH4Z+5V33f8Qpst
+Mk7orNTGc/4RvevxAGkP0pOa9PeuGpfNHkLiyhXfy5SbOMw7NgLTM1vCVFmr2EkT
+tT48BeEVet6k+IY0e3v5U+9j4NUhFTYuZ4VQlu6rXOZszp4uf+Kiq1II1+NWcha9
+AopJyaxrwbyiw5LwlK+Zvm9nlmPYQCkEz8/Yyx0OoJ0gpiuqLx7eCp3J48SkwsiR
+TA++DEw=
+=GuQU
 -----END PGP SIGNATURE-----
