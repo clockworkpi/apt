@@ -1,15 +1,15 @@
 Package: picocalc-fbcp-ili9341
-Version: 0.2
+Version: 0.3
 Maintainer: cuu<gnubsd@me.com>
 Architecture: armhf
 Conflicts:
 Priority: optional
 Section: utils
-Filename: pool/main/p/picocalc-fbcp-ili9341/picocalc-fbcp-ili9341_0.2_armhf.deb
-Size: 31646
-SHA256: 21cbbec329ae5f8b89ada6633ffe028d582cfbacfb09f2d7c4ea59ed49ddb434
-SHA1: eff2cc6d58fbfc8460c07d3a364f4228d68c53c6
-MD5sum: 559e50d0ac7a90f88fc56fba4e4fd1ad
+Filename: pool/main/p/picocalc-fbcp-ili9341/picocalc-fbcp-ili9341_0.3_armhf.deb
+Size: 31544
+SHA256: 467cb198f624a70bb8be62a6ad9a2b1936f41ac23124115feaefbf7dd389a8b1
+SHA1: 8a56495ef3a35509a8aa1a5bf1ada2634d7704a4
+MD5sum: ecc037a434ac1b325b3d5e94d166108b
 Description: picocalc zero 2w fbcp-ili9341 
 
 Package: picocalc-kernel-zero
