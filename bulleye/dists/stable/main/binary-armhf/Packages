@@ -41,3 +41,18 @@ SHA1: 59eb909d4e95c16af50b8fa42c18f2bf68f5f87c
 MD5sum: 41a534526545a13017c0423b7c817988
 Description: picocalc zero 2w pinctrl util
 
+Package: vice-emu
+Version: 0.1
+Maintainer: cuu<gnubsd@me.com>
+Architecture: armhf
+Conflicts:
+Depends: libcurl4, libx11-6, libglew2.1,libevdev2,libasound2,libgtk-3-0,libpulse0
+Priority: optional
+Section: utils
+Filename: pool/main/v/vice-emu/vice-emu_0.1_armhf.deb
+Size: 63948934
+SHA256: 361b5d1c6e0a558ae1624e6046a933241e8625b19666701580f8cbf6cddaed1b
+SHA1: b3a4dc6a216e69b9b44507bd90a0507338c14a6e
+MD5sum: d2d9c39f9a8011014f16d9def69d1fd0
+Description: https://vice-emu.sourceforge.io 
+
