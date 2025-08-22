@@ -13,18 +13,18 @@ MD5sum: ecc037a434ac1b325b3d5e94d166108b
 Description: picocalc zero 2w fbcp-ili9341 
 
 Package: picocalc-kernel-zero
-Version: 0.5
+Version: 0.6
 Maintainer: cuu <gnubsd@me.com>
 Architecture: armhf
 Conflicts: raspberrypi-kernel
 Replaces: raspberrypi-kernel
 Priority: optional
 Section: utils
-Filename: pool/main/p/picocalc-kernel-zero/picocalc-kernel-zero_0.5_armhf.deb
-Size: 53099378
-SHA256: a574b851d3a477b9386d27cd85a548691b896a9e0cf48de59cf5fee710234520
-SHA1: ed08e82ee3228f2915005ba4beb2f4f31ee8f0b9
-MD5sum: c92aa4ac945c4116fdf0d7f4bfb1a4ac
+Filename: pool/main/p/picocalc-kernel-zero/picocalc-kernel-zero_0.6_armhf.deb
+Size: 27022364
+SHA256: 50c97678d6d7fc709b7f6c3513ba77bb7b033af02e8bf0cb94574dfa3e8b946e
+SHA1: e3144fa21e765362a6dff367b69ff5ce49db9781
+MD5sum: fe338f4a5c6ce9e5606f58ae9abc2a4e
 Description: PicoCalc zero/zero 2w  kernel
 
 Package: picocalc-pinctrl
