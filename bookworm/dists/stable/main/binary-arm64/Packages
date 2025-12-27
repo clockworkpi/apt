@@ -120,18 +120,18 @@ MD5sum: b08bd998fa96c1b285583a8e0c434bdf
 Description: compiled dosbox-staging for uconsole
 
 Package: uconsole-kernel-cm4-rpi
-Version: 6.12.32-v8+
+Version: 6.12.62-v8+
 Maintainer: cuu <gnubsd@me.com>
 Architecture: arm64
 Conflicts: linux-image, linux-image-rpi-v8, linux-image-rpi-2712, raspberrypi-kernel, clockworkpi-cm4-kernel,raspberrypi-kernel, devterm-kernel-rpi,devterm-kernel-cm4-rpi
 Replaces: linux-image, linux-image-rpi-v8, linux-image-rpi-2712, raspberrypi-kernel, clockworkpi-cm4-kernel
 Priority: optional
 Section: utils
-Filename: pool/main/u/uconsole-kernel-cm4-rpi/uconsole-kernel-cm4-rpi_6.12.32-v8+_arm64.deb
-Size: 44691316
-SHA256: d5530f8994e70285ea707efaf3a4b0f3fae560cae289b1b3bc11ae6089b8b0e2
-SHA1: 562b9a353e0b01565b6155e044fd2e41b81426ef
-MD5sum: 2b5454c1daf6b6dffb61f7779ffd8c45
+Filename: pool/main/u/uconsole-kernel-cm4-rpi/uconsole-kernel-cm4-rpi_6.12.62-v8+_arm64.deb
+Size: 44623900
+SHA256: dc22c215ec2647099f88180b6eed2d0811dbffc38ecb3629c9774df3229bf774
+SHA1: d9965d942a3dd66bf6dc05b5d55ed1082500cf13
+MD5sum: 8e619b3f7efed9bc5c274cc57e185d94
 Description: uConsole cm4 kernel
 
 Package: uconsole-liko12
