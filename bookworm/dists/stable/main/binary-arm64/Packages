@@ -134,6 +134,22 @@ SHA1: d9965d942a3dd66bf6dc05b5d55ed1082500cf13
 MD5sum: 8e619b3f7efed9bc5c274cc57e185d94
 Description: uConsole cm4 kernel
 
+Package: uconsole-kernel-cm5-rpi
+Version: 6.12.62-v8-16k+
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Depends: uconsole-kernel-cm4-rpi
+Conflicts: linux-image, linux-image-rpi-v8, linux-image-rpi-2712, raspberrypi-kernel, clockworkpi-cm4-kernel,raspberrypi-kernel, devterm-kernel-rpi,devterm-kernel-cm4-rpi
+Replaces: linux-image, linux-image-rpi-v8, linux-image-rpi-2712, raspberrypi-kernel, clockworkpi-cm4-kernel
+Priority: optional
+Section: utils
+Filename: pool/main/u/uconsole-kernel-cm5-rpi/uconsole-kernel-cm5-rpi_6.12.62-v8-16k+_arm64.deb
+Size: 44589318
+SHA256: bef9d1d5f412fe35d6ead7844a005575f1dcedfb4251ef4a5d53f70efaa7059e
+SHA1: 61dcabd26c93fd1b29e7ccc6c22eaf3a3ecca74c
+MD5sum: c15de83137b01d2a78250fab497f4325
+Description: uConsole cm5 kernel
+
 Package: uconsole-liko12
 Version: 0.24
 Maintainer: cuu<gnubsd@me.com>
