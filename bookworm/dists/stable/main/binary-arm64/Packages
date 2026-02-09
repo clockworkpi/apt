@@ -144,10 +144,10 @@ Replaces: linux-image, linux-image-rpi-v8, linux-image-rpi-2712, raspberrypi-ker
 Priority: optional
 Section: utils
 Filename: pool/main/u/uconsole-kernel-cm5-rpi/uconsole-kernel-cm5-rpi_6.12.62-v8-16k+_arm64.deb
-Size: 44589318
-SHA256: bef9d1d5f412fe35d6ead7844a005575f1dcedfb4251ef4a5d53f70efaa7059e
-SHA1: 61dcabd26c93fd1b29e7ccc6c22eaf3a3ecca74c
-MD5sum: c15de83137b01d2a78250fab497f4325
+Size: 44589312
+SHA256: 8875b10960c5fe9261b792663da47f2274236aa781820ba3f2ca446272171c1b
+SHA1: 1ec885ad2359bd9141504544a71eb0e33f813b36
+MD5sum: 491df85276047a1be00cdb3b6b91fb12
 Description: uConsole cm5 kernel
 
 Package: uconsole-liko12
